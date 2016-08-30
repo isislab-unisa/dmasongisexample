@@ -1,0 +1,72 @@
+<html><head></head><body>
+<table border=0 cellspacing=0 cellpadding=6>
+<tr>
+<td valign=top><img src="icon.png"><td valign=top>
+<h2>Campania  Agent-Based Health Framework</h2> 
+By ISISLab (Università degli Studi di Salerno)<br>
+Authors: Gennaro Cordasco, Vittorio Scarano, Carmine Spagnuolo and Luca Vicidomini
+</table>
+
+<p>This is a simple example of usage of the Agent-Based simulation in health purpose.</p>
+
+<p>Campania country road and locations data are generated from ISTAT and OpenStreetMap data (coordinate system WGS84 32N).</p>
+
+This example application of Campania  Agent-Based Health Framework simulate the SIR model over 100000 agents.
+The SIR model labels these three compartments S = number susceptible, I =number infectious, and R =number recovered (immune). This is a good and simple model for many infectious diseases including measles, mumps and rubella.
+<p>SIR model parameters:</p>
+<ul>	
+<li><b>Ma_exposed_time;</b> 
+<li><b>Neighborhood;</b> 
+<li><b>Infection_probability;</b> 
+<li><b>DIAMETER;</b> 
+<li><b>Max_infected_time;</b> 
+<li><b>Initial_infected_period;</b> 
+<li><b>Initial_infected_ratio.</b>
+</ul>
+
+<p>Agent informations:
+
+<ul>
+<li><b>Position:</b>  the coordinate in the euclidean space.
+<li><b>sex:</b> the sex of the people:<ul>
+<li> 1 male;
+<li> 2 female.
+</ul>
+<li><b>movement_reason:</b> 
+<ul>
+<li>1 goes to the place of study;
+<li> 2 goes to the workplace.
+
+</ul>
+<li><b>meansTransport:</b>
+<ul>
+<li>01 train; 
+<li> 02 tram;
+<li>03 underground;
+<li>04 city bus, trolley bus;
+<li>05 bus, extra urban bus;
+<li>06 bus company or school;
+<li>07 private car (as driver);
+<li>08 Private car (as a passenger);
+<li>09 motorcycle, moped, scooter;
+<li>10 bicycle;
+<li>11 other means;
+<li>12 walk.
+</ul>
+<li><b>work_day_start:</b> 
+<ul>
+<li>1 before 7.15;
+<li>2 from 7,15 to 8,14;
+<li>3 from 8.15 to 9.14;
+<li>4 after 9:14.
+</ul>
+<li><b>travel_time:</b>
+<ul>
+<li>1 up to 15 minutes;
+<li>2 from 16 to 30 minutes;
+<li>3 from 31 to 60 minutes;
+<li>4 more than 60 minutes.
+</ul>
+<li><b>start_location:</b> home location (home,.).
+<li><b>goal_location:</b> goal location (work,..).
+</ul>
