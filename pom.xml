@@ -36,7 +36,11 @@
 			<artifactId>jts</artifactId>
 			<version>1.13</version>
 		</dependency>
-
+        <dependency>
+			<groupId>it.isislab.dmason</groupId>
+			<artifactId>mpi_18.8.jar</artifactId>
+			<version>18</version>
+		</dependency>
 		<dependency>
 			<groupId>args4j</groupId>
 			<artifactId>args4j</artifactId>
