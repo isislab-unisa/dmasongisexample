@@ -159,7 +159,7 @@ public class GISCampaniaData {
 	}
 	
 	
-	private static HashMap<Integer,ArrayList<GISCampaniaPendolo>> loadDataPendoloByCountry(final String file_path, final String file_path2,final String file_path3,final String file_path4,
+	private static HashMap<Integer,ArrayList<GISCampaniaPendolo>> loadDataPendoloByCountry(final String file_path1, final String file_path2,final String file_path3,final String file_path4,
 			HashMap<Integer, ArrayList<DataLocationISTAT>> istat_data_map2, HashMap<Integer, ArrayList<MasonGeometry>> codISTAT2Geometry)
 			{
 		BufferedReader br = null;
@@ -171,7 +171,7 @@ public class GISCampaniaData {
 		HashMap<Integer,ArrayList<GISCampaniaPendolo>> datas=null;
 		try {
 
-			br = new BufferedReader(new FileReader(file_path));
+			br = new BufferedReader(new FileReader(file_path1));
 			
 			
 			if(br.readLine()==null) return null;
