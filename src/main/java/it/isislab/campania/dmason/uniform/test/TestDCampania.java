@@ -20,7 +20,6 @@ package it.isislab.campania.dmason.uniform.test;
  */
 
 import it.isislab.campania.dmason.uniform.DCampaniaModel;
-import it.isislab.campania.dmason.uniform.DCampaniaModelWithUI;
 import it.isislab.dmason.experimentals.tools.batch.data.GeneralParam;
 import it.isislab.dmason.sim.field.CellType;
 import it.isislab.dmason.sim.field.DistributedField2D;
@@ -73,7 +72,6 @@ public class TestDCampania {
 
 			}
 		}
-		DCampaniaModelWithUI viewer=null;
 
 		ArrayList<Worker> myWorker = new ArrayList<Worker>();
 		for (int i = 0; i < rows; i++) {
