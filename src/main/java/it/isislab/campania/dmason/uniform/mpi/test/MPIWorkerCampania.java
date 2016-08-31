@@ -1,4 +1,4 @@
-package it.isislab.campania.dmason.uniform.test;
+package it.isislab.campania.dmason.uniform.mpi.test;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
