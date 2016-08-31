@@ -1,6 +1,5 @@
 *.class
 /target
-/data
 .metadata
 .project
 .settings
