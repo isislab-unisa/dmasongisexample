@@ -210,7 +210,6 @@ public class GISCampaniaData {
 		    line="";
 			br2 = new BufferedReader(new FileReader(file_path2));
 			if(br2.readLine()==null) return null;
-			datas=new HashMap<Integer, ArrayList<GISCampaniaPendolo>>();
 			while ((line = br2.readLine()) != null) {
 
 				String[] d=line.split("\\s+");	
@@ -246,7 +245,6 @@ public class GISCampaniaData {
 			    line="";
 				br3 = new BufferedReader(new FileReader(file_path3));
 				if(br3.readLine()==null) return null;
-				datas=new HashMap<Integer, ArrayList<GISCampaniaPendolo>>();
 				while ((line = br3.readLine()) != null) {
 
 					String[] d=line.split("\\s+");	
@@ -281,7 +279,6 @@ public class GISCampaniaData {
 				  line="";
 					br4 = new BufferedReader(new FileReader(file_path4));
 					if(br4.readLine()==null) return null;
-					datas=new HashMap<Integer, ArrayList<GISCampaniaPendolo>>();
 					while ((line = br4.readLine()) != null) {
 
 						String[] d=line.split("\\s+");	
