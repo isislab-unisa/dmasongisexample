@@ -1,4 +1,4 @@
-package it.isislab.campania.dmason.mpi;
+package it.isislab.campania.dmason.uniform.mpi.test;
 
 import it.isislab.campania.dmason.uniform.DCampaniaModelWithUI;
 
