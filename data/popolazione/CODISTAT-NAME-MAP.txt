@@ -1,0 +1,3499 @@
+15061001,Ailano
+15061001,Le Vaglie
+15061001,Cerqueta
+15061001,Serretelle
+15061002,Alife
+15061002,Totari
+15061002,Masseria Panella
+15061002,Cidonio
+15061002,San Vittore
+15061002,Colleferro
+15061002,Conca d'Oro
+15061002,Torrione-Paradiso
+15061002,San Vittore I
+15061002,A.S.I. Matese
+15061003,Alvignano
+15061003,Marciano Freddo
+15061004,Arienzo
+15061005,Aversa
+15061006,Baia
+15061006,Latina
+15061006,Arianova
+15061006,Favale
+15061006,Fornace
+15061006,Parco
+15061006,Starza
+15061007,Bellona
+15061007,Triflisco
+15061007,Catone
+15061007,Cercolone-Centimolo-Cuccaro
+15061007,Palombara
+15061007,San Pietro
+15061007,Starza
+15061007,Vigna
+15061007,Via Triflisco
+15061007,Ferranzano
+15061008,Aorivola
+15061008,Caianello Vecchio
+15061008,Gaudisciano
+15061008,Montano
+15061008,Poza
+15061008,Santa Lucia
+15061008,Cittadella
+15061008,Lompari
+15061008,Caianello Vecchio Sud-Est
+15061008,Località Boschetto
+15061008,Masseria Castelluccio
+15061008,Scalo Ferroviario
+15061009,Caiazzo
+15061009,Cesarano
+15061009,San Giovanni e Paolo
+15061009,Cesariello
+15061009,Ortola
+15061009,San Pietro
+15061009,Bosco di Caiazzo
+15061009,Cameralonga
+15061009,Cesine
+15061009,Papari O Liporti
+15061010,Calvi Risorta
+15061010,Calvi Vecchia
+15061010,Lanzi
+15061010,Area Industriale
+15061011,Camigliano
+15061011,Leporano
+15061012,Cancello-Arnone
+15061013,Capodrise
+15061014,Capriati A Volturno
+15061014,Santojanni
+15061015,Capua
+15061015,Sant'Angelo in Formis
+15061015,Via Giardini
+15061015,Via Villarella
+15061015,Diga Volturno
+15061015,Centro Italiano Ricerche
+15061016,Carinaro
+15061016,Polo Calzaturiero Consorzio "Unica"
+15061016,Area Sviluppo Industriale
+15061017,Carinola
+15061017,Casale
+15061017,Casanova
+15061017,Cascano di Carinola
+15061017,Nocelleto
+15061017,San Donato
+15061017,Ventaroli
+15061017,Borgo Vittorio
+15061017,Croce di Casale
+15061017,San Bartolomeo
+15061017,San Ruosi-Ceraldi
+15061017,Via Appia Km 180,600
+15061018,Casagiove
+15061019,Casal di Principe
+15061019,Scaglioni
+15061020,Casaluce
+15061021,Casapulla
+15061021,San Giovanni
+15061021,Zona P.I.P.
+15061022,Caserta
+15061022,Casertavecchia
+15061022,Casola
+15061022,Garzano
+15061022,Località Sopra Pioppi
+15061023,Castel Campagnano
+15061023,Squille
+15061023,Schiete
+15061023,Via Iv Novembre
+15061023,Via Caiazzo
+15061023,P.I.P.
+15061023,Centro l'Oasi
+15061024,Cisterna
+15061024,Prea
+15061024,Sasso
+15061024,Strangolagalli
+15061024,Arbusto
+15061024,Buonomini
+15061024,Espignole
+15061024,Ferrucci
+15061024,Maranisi
+15061024,Morrone
+15061024,San Marco
+15061025,Castello del Matese
+15061025,Porchera
+15061026,Annunziata
+15061026,San Mauro
+15061026,Monticello
+15061026,San Mauro
+15061026,Sceselunghe
+15061026,Ciummiento
+15061027,Castel Volturno
+15061027,Lago Patria
+15061027,Mazzafarro
+15061027,Seponi
+15061027,Seponi Nord
+15061027,Seponi Ovest
+15061028,Cervino
+15061028,Forchia
+15061028,Messercola
+15061028,Ponte Grotta
+15061028,Censi
+15061028,Rione Mobilia
+15061028,Carmiano
+15061028,Moschilli
+15061028,Prospi
+15061028,Savinelli
+15061028,Verdoni
+15061028,Vigliotti
+15061029,Cesa
+15061030,Ciorlano
+15061030,Casale
+15061030,Case Nuove-Quattro Stradoni
+15061031,Catailli
+15061031,Cave
+15061031,Conca della Campania
+15061031,Orchi
+15061031,Piantoli
+15061031,Pisciariello
+15061031,Vezzara
+15061031,Potete
+15061031,Tuoripunzoli
+15061031,Vallecardi
+15061031,Via Casilina
+15061032,Curti
+15061033,Maiorano di Monte
+15061033,San Giorgio
+15061033,Giusti
+15061033,Località Ponte Margherita
+15061034,Fontegreca
+15061035,Cavallari
+15061035,Fondola
+15061035,Formicola
+15061035,Lautoni
+15061035,Medici
+15061036,Francolise
+15061036,Montanaro
+15061036,Sant'Andrea-Pizzone-Ciamprisco
+15061037,Frignano
+15061037,San Lazzaro
+15061038,Gallo
+15061038,Vallelunga
+15061038,Ponte di Gallo
+15061039,Calabritto
+15061039,Campo
+15061039,Galluccio
+15061039,San Clemente
+15061039,Sipicciano
+15061039,Vaglie
+15061039,Bisanti-Fortinelli
+15061039,Campanili
+15061039,Cavelle
+15061039,Cisterni
+15061039,Gaudi
+15061039,Mieli
+15061039,Pecorari
+15061039,Saraceni
+15061039,Le Querce
+15061040,Pozzillo
+15061040,Masseria Tabasso
+15061041,Auduni
+15061041,Calvisi
+15061041,Caselle
+15061041,Criscia
+15061041,Curti
+15061041,Gioia Sannitica
+15061041,Auteri-Cacciatori
+15061041,Campagni
+15061041,Casselli
+15061041,Centimolo
+15061041,Cese
+15061041,Fattori
+15061041,Filette
+15061041,Fontanelle
+15061041,Madonna del Bagno
+15061041,Tora
+15061041,Uzzi
+15061041,Compostella
+15061041,Torre del Duca
+15061041,Fosso Lagno
+15061042,Brezza
+15061042,Grazzanise
+15061042,Borgo Appio
+15061042,Via Aeroporto
+15061043,Gricignano di Aversa
+15061043,Base logistica Us Navy
+15061043,Stazione Ferroviaria
+15061043,Area Sviluppo Industriale
+15061044,Letino
+15061045,Cese
+15061045,Liberi
+15061045,Profeti
+15061045,San Pietro
+15061045,Veccia
+15061046,Don Zeno
+15061046,Lusciano
+15061046,Rosselli
+15061047,Macerata Campania
+15061048,Grotticella-Scarfato
+15061048,Maddaloni
+15061048,Messercola
+15061048,Montedecoro
+15061048,Calabricito
+15061048,Casino Fortini
+15061048,Galazia
+15061048,Maddaloni Superiore
+15061048,Masseria Assini
+15061048,Masseria Carbone
+15061048,Masseria Grande
+15061048,Masseriola I
+15061048,Masseriola II
+15061048,Masseriola III
+15061048,Perrone
+15061048,Rinchiusa
+15061048,Sauda
+15061048,Strettola
+15061048,Strettola II
+15061048,Sapienza
+15061048,Stazione Ferroviaria
+15061048,Monti
+15061048,Saliscendi
+15061048,Turbogas
+15061049,Marcianise
+15061049,Zona Industriale Marcianise Nord
+15061049,Località Carbone I
+15061049,Zona Industriale Marcianise Sud
+15061049,Scalo Merci
+15061049,Località Carbone II
+15061049,Carbone III
+15061049,Aurno
+15061050,Ameglio
+15061050,Campagnola
+15061050,Grottola
+15061050,Tuorofunaro
+15061050,Capometa
+15061050,Carangi
+15061050,Cardoni
+15061050,Civitella
+15061050,Macini
+15061050,San Lorenzo
+15061050,Sarcioni
+15061050,Terracorpo
+15061050,Torello
+15061050,Tuorocasale
+15061050,Vallecupa
+15061051,Campozillone
+15061051,Caspoli
+15061051,Mignano Monte Lungo
+15061051,Moscuso
+15061051,Casa la Selva
+15061051,Passaggio Verona
+15061052,Mondragone
+15061052,Pescopagano
+15061052,Pineta Riviera
+15061052,Pineta Nuova
+15061052,Mercato Ortifrutticolo
+15061052,Panetelle
+15061052,Mazzafarro
+15061052,Pineta
+15061053,Orta di Atella
+15061054,Parete
+15061055,Pastorano
+15061055,Spartimento-Ceraso
+15061055,Torre Lupara
+15061056,Piana di Monte Verna
+15061056,Villa Santa Croce
+15061056,Castello
+15061056,Fagianeria
+15061056,Scalzatoio
+15061056,Villanuova
+15061056,Marano
+15061056,Capitolo
+15061057,Piedimonte Matese
+15061058,Pietramelara
+15061058,Località Cinquerie
+15061058,San Pasquale
+15061058,Area Produttiva
+15061059,Pietravairano
+15061059,San Felice
+15061059,Castagneto
+15061059,Cappella della Vesche
+15061059,Contrada S. Pasquale
+15061060,Pignataro Maggiore
+15061060,Taverna di Pignataro Maggiore
+15061060,Taverna Vecchia
+15061060,Zona Asi (Area Industriale)
+15061061,Pontelatone
+15061061,Treglia
+15061061,Casalicchio
+15061061,Funari
+15061061,Pellegrino
+15061061,Savignano
+15061061,Castagna
+15061061,Casella
+15061061,Marzi
+15061062,Portico di Caserta
+15061062,Musicile
+15061062,Area P.I.P.
+15061063,Prata Sannita Centro
+15061063,Collelungo
+15061063,Fragneto
+15061063,La Piana
+15061063,Sant'Agostino
+15061064,Mastrati
+15061064,Palombisci
+15061064,Pratella
+15061065,Presenzano
+15061065,Casilina
+15061065,San Felice
+15061065,Pentime
+15061066,Raviscanina
+15061066,Case Pagane
+15061066,Case Albanesi
+15061067,Recale
+15061068,Riardo
+15061068,Scarpati
+15061068,Paolissi
+15061068,Arena
+15061068,Ferrarelle-Saudina
+15061068,Riello-Nucci
+15061068,Area Industriale Ferrarelle
+15061069,Bivio Mortola
+15061069,Camino
+15061069,Campolongo
+15061069,Cocuruzzo
+15061069,Marsella
+15061069,Rocca d'Evandro
+15061069,Casale
+15061069,Colle
+15061069,Farneto
+15061069,Formella
+15061069,Gelsi
+15061069,Vallevona
+15061069,Casamarina
+15061069,Casamarina I
+15061069,Pisciarello
+15061070,Fontanafredda
+15061070,Garofali
+15061070,Roccamonfina
+15061070,Torano
+15061070,Cese
+15061070,Filorsi
+15061070,Tavola
+15061070,Tuoro di Tavola
+15061070,Tuorisichi
+15061070,Lattani
+15061071,Roccaromana
+15061071,Santa Croce
+15061071,Statigliano
+15061071,Campomaggiore
+15061071,Pastanelle
+15061072,Montanari
+15061072,Rocchetta
+15061072,Biasi
+15061072,Croce
+15061072,Sorgente Santagata
+15061073,Alvignanello
+15061073,Ruviano
+15061073,Ricci
+15061073,San Domenico
+15061073,Santa Maria
+15061073,San Marco
+15061073,Isola
+15061073,Sottovia
+15061073,Cese Vincenzo
+15061073,Via Nazionale
+15061073,Felcio
+15061073,Termine
+15061073,Sottovia II
+15061074,San Cipriano d'Aversa
+15061074,Piccola Casetta di Nazareth
+15061075,Polvica
+15061075,San Felice A Cancello
+15061076,San Gregorio Matese
+15061077,Rione Casapesenna
+15061077,San Marcellino
+15061077,Area P.I.P.
+15061078,San Nicola la Strada
+15061078,Sapienza
+15061079,San Cataldo
+15061079,San Pietro Infine
+15061079,Colle Apone
+15061080,San Potito Sannitico
+15061080,Campochiaro
+15061081,San Prisco
+15061082,Santa Maria A Vico
+15061083,Santa Maria Capua Vetere
+15061083,Istituto Penitenziario N.C.C.
+15061084,Santa Maria la Fossa
+15061084,La Torre
+15061084,Cammino
+15061085,Parco dei Salici
+15061085,San Tammaro
+15061085,Zona P.I.P.
+15061086,Sant'Angelo d'Alife
+15061087,Sant'Arpino
+15061088,Aulpi
+15061088,Avezzano-Sorbello
+15061088,Baia Azzurra-Levagnole
+15061088,Baia Domizia
+15061088,Borgo Centore
+15061088,Campo Felice
+15061088,Carano
+15061088,Cascano
+15061088,Ceschetto
+15061088,Corbara
+15061088,Corigliano
+15061088,Cupa
+15061088,Fasani
+15061088,Fontanaradina
+15061088,Gusti
+15061088,Lauro
+15061088,Le Perle
+15061088,Piedimonte
+15061088,Ponte
+15061088,Rongolise
+15061088,San Carlo
+15061088,San Castrese
+15061088,San Martino
+15061088,Sant'Agata
+15061088,Santa Maria Valongo
+15061088,Sessa Aurunca
+15061088,Tuoro Podesti
+15061088,Valogno
+15061088,Agonursi
+15061088,Casarinoli
+15061088,Maiano
+15061088,Marzuli
+15061088,Paoli
+15061088,Pietrerotte
+15061088,San Felice
+15061088,San Sebastiano
+15061088,San Venditto
+15061088,Sassi
+15061088,Area Produttiva I
+15061088,Torelle
+15061088,Villaggio Senn
+15061088,Zelloni-Vigne
+15061088,Cicoli
+15061088,Castellone
+15061088,Limate
+15061088,Arianova
+15061088,Area Produttiva II
+15061088,Area Produttiva III
+15061089,Sparanise
+15061089,Lanzi
+15061090,Casapuzzano
+15061090,Succivo
+15061091,Cappelle
+15061091,Carbonara
+15061091,Casafredda
+15061091,Casale
+15061091,Casamostra
+15061091,Casi
+15061091,Fontanelle
+15061091,Furnolo
+15061091,Pugliano
+15061091,San Giuliano
+15061091,San Marco
+15061091,Santa Maria Versano
+15061091,Scalo Ferroviario
+15061091,Teano
+15061091,Tranzi
+15061091,Tuoro
+15061091,Versano
+15061091,Magnano
+15061091,Poza
+15061091,Acquarotta
+15061091,Borgonuovo
+15061091,Casareale-Cipriani
+15061091,Consolata
+15061091,Gloriani
+15061091,Maiorisi
+15061091,Santa Croce
+15061091,Santa Giulianeta
+15061091,Taverna-Zarone
+15061092,Teverola
+15061092,Area Sviluppo Industriale
+15061093,Piccilli
+15061093,Tora
+15061093,Tuoro
+15061093,Casilina
+15061093,Foresta
+15061093,Pesche
+15061093,Schete
+15061093,Starze
+15061094,Trentola-Ducenta
+15061094,San Marcellino-Aversa
+15061095,Marzanello
+15061095,Vairano-Patenora
+15061095,Acquarelli
+15061095,Guardiole
+15061095,Tramonti
+15061095,Verdesca
+15061096,Valle Agricola
+15061097,Valle di Maddaloni
+15061097,Piscinale I
+15061097,Starza
+15061097,Stazione Valle di Maddaloni
+15061097,Suppa
+15061097,Variante
+15061097,Campanariello
+15061097,Mastellone
+15061098,Isola
+15061098,Villa di Briano
+15061099,Villa Literno
+15061099,San Sossio Iv
+15061099,Masseria Arsa
+15061099,Masseria S. Biagio
+15061099,San Sossio I
+15061099,San Sossio II
+15061099,San Sossio III
+15061100,Molinella
+15061100,Vitulazio
+15061100,Agnena
+15061100,Collicella
+15061100,Fondillo
+15061100,Pezzagrande
+15061100,San Giuseppe
+15061100,Sala
+15061100,Bovenzi
+15061100,Torre Lupara
+15061101,Falciano del Massico
+15061102,Baia Domizia
+15061102,Borgo Centore
+15061102,Casamare
+15061102,Cellole
+15061102,Civette
+15061102,Domiziana Km 4
+15061102,Farnete
+15061102,Folaghe
+15061102,Interpoderale
+15061102,La Crocella
+15061102,Masseria Tre Ponti
+15061102,Provinc. Cellole-Piedimonte Rivoli
+15061102,Santa Lucia
+15061102,Costiere Tonde
+15061102,Parco Puledri
+15061102,Parco Domizio
+15061102,Moscarelli
+15061103,Casapesenna
+15061103,Calitta
+15061104,San Marco Evangelista
+15061104,A.S.I.
+15061104,Saliscendi
+15061104,Trivio Quaranta
+15062001,Airola
+15062001,Tavernola
+15062001,Trivolati
+15062001,Sepalone
+15062001,Cortecalce
+15062001,Zona P.I.P.
+15062002,Amorosi
+15062002,Stazione di Amorosi
+15062002,Campo sportivo
+15062002,La Piana
+15062003,Apice Nuovo
+15062003,Apice Vecchio
+15062003,Calvano
+15062003,Casuccio
+15062003,Fierro
+15062003,Frattolillo
+15062003,Genca
+15062003,Iebba
+15062003,L.P. San Donato
+15062003,San Lorenzo
+15062003,San Martino
+15062003,Sant'Isidoro
+15062003,Zuccarelli
+15062003,Selva
+15062003,San Francesco
+15062003,Calicchio
+15062003,Santa Lucia
+15062003,Circolo Santa Lucia
+15062003,Bordi
+15062003,Piano Zona Corsano
+15062003,Morroni
+15062003,Ambrosino
+15062003,Macchione
+15062003,Vauto
+15062003,Tignano
+15062003,Tinghione
+15062003,Fruci
+15062003,Belmonte
+15062003,Santa Lucia Bassa
+15062003,Colarusso
+15062003,Sant'Antonio
+15062003,Sottocastiglione
+15062003,Spina
+15062003,Sottocastiglione I
+15062003,Falcetti
+15062004,Apollosa
+15062004,San Giovanni
+15062004,Epitaffio
+15062004,Cancellonica
+15062004,Fornillo
+15062004,Monte Mauro
+15062004,Tufariello
+15062004,Contrada Izzi
+15062004,Triscini
+15062004,Suime-Pretera
+15062005,Arpaia
+15062005,Via Appia Ovest
+15062005,Via Appia Est
+15062006,Arpaise
+15062006,Terranova
+15062006,Casalpreti-Varricchi
+15062006,Pasquarielli
+15062007,Baselice
+15062007,Bosco
+15062007,Mazzocca
+15062007,Pietramonte
+15062007,Porcara
+15062008,Benevento
+15062008,Acquafredda I
+15062008,Cancelleria
+15062008,Caprarelle
+15062008,Coluonni
+15062008,La Francesca I
+15062008,Lammia I
+15062008,La Vipera
+15062008,Mascambroni
+15062008,Masseria Catalano
+15062008,Masseria de Gregorio
+15062008,Masseria del Ponte
+15062008,Masseria Grande
+15062008,Masseria Grasso
+15062008,Masseria Quarantiello
+15062008,Masseria San Vitale
+15062008,Monte Calvo
+15062008,Monteguardia
+15062008,Monte Pino
+15062008,Mosti
+15062008,Pino
+15062008,Ponte Tavole
+15062008,San Domenico
+15062008,San Francesco
+15062008,San Liberatore
+15062008,Sant'Angelo di Sotto
+15062008,San Vitale I
+15062008,San Vitale II
+15062008,Scafa
+15062008,Sciabacca
+15062008,Torre Alfieri
+15062008,Torre San Giovanni
+15062008,Torretta II
+15062008,Murata
+15062008,Olivola
+15062008,La Francesca II
+15062008,Calore
+15062008,San Vitale III
+15062008,Roseto II
+15062008,San Vitale Iv
+15062008,Triemolo
+15062008,Badessa
+15062008,San Chirico
+15062008,Ripamorta I
+15062008,Ripamorta II
+15062008,Acquafredda II
+15062008,Pestecchia
+15062008,Cellarulo
+15062008,Ciancelle
+15062008,Fanfana Margiacca
+15062008,Ariella
+15062008,Santa Colomba I
+15062008,Santa Colomba II
+15062008,Santa Colomba III
+15062008,Capodimonte
+15062008,Santa Clementina 1
+15062008,Santa Clementina 2
+15062008,Montecalvo 2
+15062008,Ponte Tavole 2
+15062008,San Cumana
+15062008,Piano Cappelle 1
+15062008,Piano Cappelle Agrario
+15062008,Piano Cappelle 2
+15062008,Zona Industriale Ponte Valentino
+15062008,Zona Industriale Colnonni
+15062008,Zona Ind. Olivola P.I.P.
+15062008,Zona Ind. Olivola Cecas
+15062008,Zona Ind. Ponte Valentino
+15062009,Bonea
+15062009,Via Fizzo
+15062009,Campizze
+15062010,Bucciano
+15062010,Madonna Immacolata
+15062010,Masseria Ruggieri
+15062011,Buonalbergo
+15062011,Masseria Marchittari
+15062011,Traverso
+15062012,Apice Nuovo
+15062012,Calvi
+15062012,Appia Ss. 7
+15062012,De Gregorio
+15062012,Li Mai
+15062012,Mirra
+15062012,Piano Casiello
+15062012,Soricelli
+15062012,Tre Torri
+15062012,Zuzoli
+15062012,Spaccamontagna
+15062012,Tinelle
+15062012,Nucleo Misto
+15062012,Zuzoli Pro-Loco
+15062012,Bosco Sant'Agnese
+15062012,Europa
+15062012,Poeti
+15062012,Campo Freddo
+15062012,Appia Antica
+15062012,Tuoppolo a Vento
+15062012,P.I.P.
+15062013,Campolattaro
+15062013,Cappellini
+15062013,Fontana Pasquale
+15062013,Iadanza
+15062013,Madonna del Canale
+15062013,Masserie Chiovi
+15062013,Masserie Mancini
+15062013,Masserie Marcolfi
+15062013,Masserie Mozzoni
+15062013,Masserie Riella
+15062013,Via Iadanza
+15062013,Via Iadanza I
+15062013,Valle Cupa
+15062013,Madonna del Canale 1
+15062014,Campoli del Monte Taburno
+15062014,Marzano
+15062014,Pantanielli
+15062015,Casalduni
+15062015,Ferrarisi
+15062015,Casale
+15062015,Collemarino
+15062015,Collemastarzo
+15062015,Crocella
+15062015,Macella
+15062015,Santa Maria
+15062015,Vado della Lota
+15062015,Zingolella
+15062015,Mottola
+15062016,Castelfranco in Miscano
+15062017,Castelpagano
+15062017,Masseria Marcocci
+15062017,Masseria Ciccoporcari
+15062017,Masseria Costamarotta
+15062017,Masseria Fattori
+15062017,Masseria Germani
+15062017,Masseria la Ripa
+15062017,Masseria Masilli
+15062017,Masseria Paoloni
+15062017,Masseria Peppesurdo
+15062017,Masseria Richi
+15062017,Scarcioni
+15062017,Stozza
+15062017,Valle Ferrara
+15062018,Castelpoto
+15062019,Castelvenere
+15062019,Telese Terme
+15062019,Solopaca
+15062019,Federi
+15062019,Marraioli
+15062019,San Tommaso
+15062020,Castelvetere in Val Fortore
+15062021,Cautano
+15062021,Sala
+15062022,Barba
+15062022,Beltiglio-San Giovanni
+15062022,Ceppaloni
+15062022,Santa Croce
+15062022,Manni
+15062022,Petrara
+15062022,Ripabianca
+15062022,Rotola
+15062022,Tressanti
+15062022,Trocchia
+15062022,Venaglie
+15062022,Rotola
+15062023,Cerreto Sannita
+15062023,Cappuccini
+15062023,Madonna della Libera
+15062023,Montrino
+15062023,Sant'Anna
+15062023,Dodici Angeli
+15062024,Circello
+15062024,Forcellata
+15062024,Macchia
+15062024,San Lorenzo
+15062025,Colle Sannita
+15062025,Decorata
+15062025,Bannera I
+15062025,Bannera II
+15062025,Capileggi
+15062025,Carlilonghi
+15062025,Caterè
+15062025,Cudacchi
+15062025,Felecarelle
+15062025,Forna
+15062025,Isca
+15062025,Lisoni
+15062025,Mandroni
+15062025,Marcandindoli
+15062025,Moscia
+15062025,Paolucci
+15062025,Pilla
+15062025,Pizzelle
+15062025,Romiti
+15062025,Tolli
+15062025,Vicenne
+15062025,Zepponi
+15062026,Civitella Licinio
+15062026,Cusano Mutri
+15062026,Bocca della Selva
+15062026,Calvario
+15062026,Grottole
+15062026,Potete
+15062026,San Felice
+15062026,San Giuseppe
+15062026,Santa Maria
+15062026,Sorgente
+15062026,Ariella di Sopra
+15062027,Dugenta
+15062027,Lamia
+15062027,Cantalupi
+15062027,Cocola
+15062027,Germinesi
+15062027,Lanzi
+15062027,San Nicola
+15062027,Santa Maria Impesole
+15062027,Tore
+15062027,Fossi
+15062027,Fossi II
+15062027,Fossi III
+15062028,Durazzano
+15062028,Casanova
+15062028,San Giorgio
+15062029,Faicchio
+15062029,Fontanavecchia
+15062029,Massa
+15062029,Amati
+15062029,Russi
+15062029,Caldaie
+15062029,Camputari
+15062029,Coppoli
+15062029,Massari
+15062029,Perroni
+15062029,Porti
+15062029,Sant'Antonio
+15062029,Visanti
+15062029,Madonna delle Grazie
+15062029,Palmieri
+15062029,San Pasquale
+15062030,Foglianise
+15062030,Masseria la Palmenta
+15062030,Utile
+15062030,Viglione
+15062030,Pastori
+15062031,Foiano di Val Fortore
+15062032,Cagni
+15062032,Forchia
+15062032,Palata
+15062032,Contrada Falco
+15062032,P.I.P. "Rella"
+15062033,Fragneto L'Abate
+15062034,Fragneto Monforte
+15062035,Frasso Telesino
+15062035,Nansignano
+15062035,Arbusti
+15062036,Ginestra degli Schiavoni
+15062037,Guardia Sanframondi
+15062037,Cavarena
+15062037,Cervillo
+15062037,Fornace
+15062037,Galano
+15062037,Santa Lucia
+15062037,Sapenzie
+15062037,Tre Pietre
+15062037,Zeppa di Ferro
+15062038,Biancano
+15062038,Giardoni
+15062038,Limatola
+15062038,Linara
+15062038,L.P.Tesseci S.R.L
+15062039,Melizzano
+15062039,Torello-Breccelle
+15062039,Ponte Torello
+15062039,San Tammaro
+15062039,Pozzo della Calce
+15062039,Boscarelle Snam
+15062040,Luzzano
+15062040,Moiano
+15062040,Tre Masserie
+15062040,Chieale
+15062041,Molinara
+15062041,Area P.I.P.
+15062042,Montefalcone di Val Fortore
+15062043,Cirignano
+15062043,Montesarchio
+15062043,Tufara
+15062043,Monaca
+15062043,Muraglione
+15062043,Monaca I
+15062043,Monaca II
+15062043,Iavari
+15062043,Zona Commerciale Pagliarone
+15062044,Cuffiano
+15062044,Morcone
+15062044,Bollella
+15062044,Caia Borsa
+15062044,Cappelletti-Petrilli
+15062044,Case Pilla
+15062044,Case Senzamici
+15062044,Colle
+15062044,Colonia Cassetta
+15062044,Don Paoli
+15062044,Fuschi
+15062044,Guadoschiavo
+15062044,I Corpetti
+15062044,Masseria Fiorenza
+15062044,Masseria Giordano
+15062044,Parlapiani
+15062044,Sant'Antonio
+15062044,Schiavoni
+15062044,Solla
+15062044,Stazione di Santa Croce
+15062044,Area Industriale
+15062045,Paduli
+15062045,Calore Sandriani
+15062045,Ignazia
+15062045,Contrada Torre I
+15062045,San Giuseppe
+15062045,Montecapriano
+15062045,Saglieta
+15062045,Piana Ferrara
+15062045,Calviello
+15062045,Ponte Ladrone
+15062045,Serre delle Forche
+15062045,Contrada S. Arcangelo
+15062045,Carpinelli
+15062045,Contrada Iettacore
+15062045,Contrada Torre Monte I
+15062045,Contrada Torre Monte II
+15062045,Contrada Torre II
+15062045,Contrada Orticelli
+15062045,Contrada Sant'Elena
+15062045,Contrada Montesanto
+15062045,Contrada Cisterna
+15062045,Contrada Femina Arsa
+15062045,S. Giuseppe
+15062045,Iettacore
+15062045,Contrada Montecapriano
+15062045,Ignazia 1
+15062045,Località Produttiva Sagliete
+15062046,Pago Veiano
+15062046,Cerri d'Antonio
+15062046,Colle Iesi
+15062046,Cerzoccole
+15062046,Siepi Acacie
+15062046,Masserie Gilormi
+15062046,Zona Industriale
+15062047,Pannarano
+15062047,Via Nuova Piano
+15062048,Paolisi
+15062048,Rione Tavernola
+15062049,Paupisi
+15062049,San Pietro
+15062049,Chiesa dei Pagani
+15062049,Cirasiello
+15062049,Cisterna
+15062049,Mandarisi
+15062049,Pagliaio Vecchio
+15062050,Pesco Sannita
+15062050,Innesto
+15062050,Simonini
+15062051,Pietraroja
+15062051,Mastramici di Sopra
+15062051,Mastramici di Sotto
+15062052,Pietrelcina
+15062052,Cannavina
+15062052,Difesa
+15062052,Piana Romana
+15062052,Stazione di Pietrelcina
+15062052,Guardiola
+15062052,Piana
+15062052,San Domenico
+15062052,Fontana dei Fieri
+15062052,Zona Industriale Frasso
+15062053,Ponte
+15062053,Colli
+15062053,Ferrarisi
+15062053,Monte
+15062053,Piana
+15062053,Staglio II
+15062053,Piana I
+15062053,Piana II
+15062054,Pontelandolfo
+15062054,Caicchia
+15062054,Case Agnerone
+15062054,Case Calvino
+15062054,Case Ciova
+15062054,Case Addona
+15062054,Case Varrone
+15062054,Case Russo
+15062054,Case Santillo
+15062054,Case Tolla
+15062054,Case Zingari
+15062054,Ciarli
+15062054,Cocuzzo
+15062054,Lombardara
+15062054,Ureccola
+15062054,Gugliete
+15062054,Guitto
+15062054,Lisa
+15062054,Peppilongo
+15062054,Marzilongo
+15062054,Ciccotto
+15062054,Pericurti
+15062054,Mezzoculo
+15062054,Minicariello
+15062054,Mucciacciaro
+15062054,Perugini II
+15062054,Pesce
+15062054,Petrillo
+15062054,Ponte Sorgenza
+15062054,Santa Maria degli Angeli
+15062054,Spappolla
+15062054,Sticco
+15062054,Trippa Bella
+15062054,Santa Caterina
+15062054,Iella
+15062054,Giallonardo
+15062054,Carluni
+15062054,Poce Tolla
+15062054,Zona P.I.P.
+15062055,Puglianello
+15062055,Acquara
+15062055,Campo Sportivo
+15062055,Masseria Guarnieri
+15062055,Area P.I.P.
+15062056,Reino
+15062056,Area P.I.P.
+15062057,San Bartolomeo in Galdo
+15062058,Cesine
+15062058,San Giorgio del Sannio
+15062058,Porreta
+15062058,Monterone
+15062059,San Giorgio la Molara
+15062059,Baseleone
+15062059,Calise
+15062059,Capoianca
+15062059,Cardito
+15062059,Cefalicchio
+15062059,Centrale
+15062059,Cerracchio
+15062059,Cesacaraccio
+15062059,Dragonetto
+15062059,Fabbricata
+15062059,Santo Ianni
+15062059,Fosso di Bosco
+15062059,Golia
+15062059,Guarana
+15062059,Maddalena
+15062059,Olecenello
+15062059,Perazzeta
+15062059,Pianella
+15062059,Piano d'Arco
+15062059,Pilarcelle
+15062059,Romiti
+15062059,San Lazzaro
+15062059,San Pietro
+15062059,Sant'Andrea
+15062059,Santo Ianni I
+15062059,Serra dei Monti
+15062059,Taverna
+15062059,Valle
+15062059,Piano D'Arco I
+15062059,San Pietro I
+15062059,Santa Varva
+15062059,Serra dei Monti I
+15062059,Favali
+15062059,Perazzetta I
+15062059,San Salvatore
+15062060,Maccabei Centro
+15062060,San Leucio del Sannio-Cavuoti
+15062060,Maccabei Valle
+15062060,Masserie
+15062060,Merici
+15062060,Valle
+15062060,Vigne
+15062061,San Lorenzello
+15062061,Cancello
+15062061,Izzo
+15062061,Madonnella
+15062061,San Donato
+15062061,Sant'Elia
+15062061,Serre
+15062062,San Lorenzo Maggiore
+15062062,Santa Maria la Strada
+15062063,San Lupo
+15062064,San Marco dei Cavoti
+15062064,Ciannavera
+15062064,Fontecanale
+15062064,Franzese II
+15062064,Montedoro
+15062064,Franzese
+15062064,Santa Maria di Macchia
+15062064,Turone
+15062064,Peschiti
+15062064,Zenna
+15062064,Fontecanale I
+15062064,Leccata
+15062065,Cucciano
+15062065,Lentace
+15062065,Mancusi
+15062065,San Giacomo
+15062065,San Martino Sannita
+15062065,S. Nicola Manfredi
+15062066,San Nazzaro
+15062067,Iannassi-Bosco Perrotta
+15062067,San Nicola Manfredi
+15062067,Santa Maria A Toro
+15062067,Santa Maria Ingrisone
+15062067,Monterocchetta
+15062067,Toccanisi
+15062067,Pagliara
+15062067,Torre Pagliara
+15062067,Pianelle
+15062068,Contrada Bagni
+15062068,San Salvatore Telesino
+15062068,Banca
+15062068,Cese San Manno
+15062068,Telese Vetere
+15062068,Selva Palladina
+15062068,Zona Anfiteatro
+15062068,Zona Industriale Isclero
+15062069,Santa Croce del Sannio
+15062069,Minchicoscia
+15062069,Pettunti
+15062069,Colle S. Martino
+15062070,Bagnoli
+15062070,Cantinella
+15062070,Cerreta
+15062070,Faggiano
+15062070,Laiano
+15062070,Migliara-San Silvestro
+15062070,Sant'Agata Dè Goti
+15062070,Sant'Anna
+15062070,Verroni
+15062070,Cappellone
+15062070,Annunziata
+15062070,Bosco Cupo
+15062070,Campi
+15062070,Capellino
+15062070,Capitone
+15062070,Cassano
+15062070,Chiuppepe
+15062070,Ciardullo
+15062070,Cologna
+15062070,Corvi
+15062070,Cotugni
+15062070,Deserto
+15062070,Fagnano
+15062070,Fumarielli
+15062070,Ischitella
+15062070,Lamia
+15062070,Marchitti
+15062070,Masseria Calandra
+15062070,Masseria della Ratta
+15062070,Masseria Fusco-Torretta
+15062070,Masseria Fusco-Traversano
+15062070,Masseria Iannotta
+15062070,Masseria Izzo
+15062070,Masseria Lombardi
+15062070,Masseria Monteforte
+15062070,Masseria Orefice
+15062070,Masseria Vigliotti
+15062070,Mosielli
+15062070,Palmentata
+15062070,Paolini
+15062070,Pecereca
+15062070,Pennino
+15062070,Piano
+15062070,Piantito
+15062070,Piscitella
+15062070,Presta
+15062070,Restinola
+15062070,Saiano
+15062070,Sanguinito
+15062070,San Paolo
+15062070,San Pietro
+15062070,Santa Croce
+15062070,Scuola Sant'Anna
+15062070,Sopportico
+15062070,Soviano
+15062070,Tore
+15062070,Torretta
+15062070,Torricella
+15062070,Traugnano
+15062070,Tuoro Scigliato
+15062070,Viscusi
+15062070,Sala
+15062070,Presta I
+15062070,Capitone I
+15062070,Castrone
+15062070,Traugnano-Tagliola
+15062070,San Tommaso
+15062071,Maccoli-Perrillo
+15062071,Montorsi
+15062071,Motta
+15062071,Pastene
+15062071,San Marco Ai Monti
+15062071,Sant'Angelo A Cupolo
+15062071,Bagnara
+15062071,Bosco Panaro
+15062071,Cappelle
+15062071,Cardillo
+15062071,Fratese
+15062071,Medina
+15062071,Montorsi Valle
+15062071,Motta Valle
+15062071,Santa Croce
+15062071,Bagnara Valle
+15062071,Quadriello
+15062072,Sassinoro
+15062073,Sant'Aniello
+15062073,Solopaca
+15062073,Stazione di Solopaca
+15062074,Telese
+15062074,Via Fausto Coppi
+15062074,Via S. Giovanni
+15062074,Contrada Tuono
+15062074,L.P. Consorzio di Bonifica
+15062075,Tocco Caudio
+15062075,Lotola
+15062075,Cornito
+15062075,Serra
+15062075,San Martino
+15062076,Torrecuso
+15062076,Fontanavecchia
+15062076,Isca
+15062076,Pecci
+15062076,Pezzepagliara
+15062076,San Libero
+15062076,Torrepalazzo
+15062076,Fragneta
+15062076,Scauzone
+15062076,Defenze
+15062076,Pezze
+15062076,Mercuri
+15062076,Collepiano
+15062076,Iardino
+15062076,Torrepalazzo I.P.
+15062077,Vitulano
+15062077,Ponterutto
+15062077,Santo Stefano
+15062077,Sant'Antonio
+15062078,Sant'Arcangelo Trimonte
+15062078,Via Iscalonga
+15063001,Acerra
+15063001,Gaudello
+15063001,Pezzalunga
+15063001,Sperduto
+15063001,Pizzone
+15063001,Sperduto I
+15063001,Santa Maria la Selva
+15063001,Pastiniello
+15063001,Curcio
+15063001,Bosco Calabricito
+15063001,Parmiano
+15063001,Pantano
+15063001,Pagliarone
+15063001,Prol. Corso Italia
+15063001,Fiat S.p.A. ed Indotto
+15063002,Afragola
+15063002,Capo Mazzo
+15063002,Masseria Santa Teresa
+15063002,Murillo Fatigati
+15063002,Murillo Fatigati I
+15063002,Ipercoop
+15063002,Cantariello
+15063003,Pianillo
+15063004,Anacapri
+15063005,Arzano
+15063006,Bacoli
+15063006,Scalandrone
+15063006,Faro
+15063007,Barano d'Ischia
+15063007,Cretaio
+15063008,Boscoreale
+15063008,Flocco
+15063008,Grotta
+15063008,Grotta Parrelle
+15063008,Ponte Zappella
+15063008,Spinelli
+15063009,Boscotrecase
+15063010,Brusciano
+15063010,Via G.De Ruggiero
+15063010,Via Caprarelle
+15063010,Via Madonna Stella
+15063010,Area P.I.P.
+15063011,Caivano
+15063011,Pascarola
+15063011,Agglomerato Asi Pescarola
+15063011,Localita' Omo Morto
+15063011,Ditta Ultragas
+15063011,Ditta Cimino
+15063012,Calvizzano
+15063012,Corigliano
+15063012,San Pietro
+15063013,Camposano
+15063013,Località Gallo
+15063014,Capri
+15063015,Carbonara di Nola
+15063015,Pozzoromolo
+15063015,Battaglia
+15063016,Cardito
+15063017,Casalnuovo di Napoli
+15063017,Casarea
+15063018,Casamarciano
+15063018,Schiava
+15063018,Trivio
+15063018,Localita' Campocavallo
+15063019,Casamicciola Terme
+15063020,Casandrino
+15063021,Casavatore
+15063022,Casola di Napoli
+15063023,Arpino
+15063023,Casoria
+15063023,Zona Commerciale San Salvatore
+15063024,Castellammare di Stabia
+15063025,Castello di Cisterna
+15063026,Cercola
+15063026,Ponte Cozzolino
+15063026,San Giovanni
+15063027,Cicciano
+15063028,Cimitile
+15063029,Comiziano
+15063029,Gallo
+15063029,Via Campo
+15063030,Crispano
+15063031,Forio
+15063031,Mezzavia
+15063032,Frattamaggiore
+15063032,Zona Asi
+15063032,Area P.I.P.
+15063033,Frattaminore
+15063033,Spagnuolo
+15063034,Giugliano in Campania
+15063034,Lago Patria
+15063034,Lido di Licola
+15063034,Parco Verde
+15063034,Varcaturo
+15063034,Appia-Parco Platani
+15063034,Contrada Fellapane
+15063034,Fondo Miraglia
+15063034,Amodio-Massariola
+15063034,Masseria Vecchia
+15063034,Parco Mazzola
+15063034,Località Cinistrelli
+15063034,Arco Sant'Antonio Nord
+15063034,Cavone
+15063034,San Juliano
+15063034,Ponte Riccio
+15063034,Cantoncello
+15063034,Cantone
+15063034,Carrafiello
+15063034,Acquafresca
+15063034,Monsignorella
+15063034,Troncone-Mancino
+15063034,Maccanico
+15063034,Pini Nord E
+15063034,I Gelsi
+15063034,Organizz. Nazionale Combattenti 1
+15063034,Ponte di Ferro
+15063034,Pini Nord D
+15063034,Op. Nazionale Combattenti 2\3
+15063034,Pini Nord C
+15063034,Grotta dell'Olmo IV
+15063034,Pini Nord B
+15063034,Grotta dell'Olmo III
+15063034,Canosa
+15063034,Rannola Nord
+15063034,Rannola Sud
+15063034,Masseria Vecchia Est
+15063034,Grotta dell'Olmo II
+15063034,Pini Sud 2
+15063034,Grotta dell'Olmo I
+15063034,Campanariello
+15063034,Festinese
+15063034,Pini Sud 3
+15063034,Marchesa
+15063034,Masseria Vecchia Ovest
+15063034,Masseria Vecchia Sud
+15063034,Monte San Severino
+15063034,Organiz. Nazionale Combattenti 6
+15063034,Organiz. Nazionale Combattenti 7
+15063034,Parco Simone
+15063034,Country Park
+15063034,Zaccaria
+15063034,Masseria Vecchia Est 1
+15063034,Ripuaria Serino
+15063034,Campo degli Osci
+15063034,Frà Gianbattista
+15063034,Scuotto Nord
+15063034,Reginelle
+15063034,Sorbe Rosse
+15063034,Localita' Salice
+15063034,Mercato
+15063034,Asi
+15063034,Commerciale
+15063035,Castello
+15063035,Gragnano
+15063035,Oliveto
+15063036,Grumo Nevano
+15063036,Zona Maddalena
+15063037,Ischia
+15063037,Piano Liguori
+15063038,Lacco Ameno
+15063039,Gesini
+15063039,Piazza Roma
+15063039,Pietra
+15063039,Saletta
+15063039,San Nicola
+15063039,Fontanella-Calcare
+15063039,Pagliano
+15063039,San Paolo
+15063039,Varo Chirico
+15063040,Liveri
+15063041,Castello Monteleone
+15063041,Marano di Napoli
+15063041,Torre Caracciolo
+15063041,Lava-Rocchetti
+15063041,Cupa dei Cani
+15063041,Galeotta
+15063041,Masseria Foragnano
+15063041,Masseria Romano
+15063041,Romano
+15063041,Iummella
+15063041,Pendine
+15063042,Mariglianella
+15063042,Masseria Castellana
+15063043,Marigliano
+15063044,Marciano
+15063044,Marina di Puolo
+15063044,Massa Lubrense
+15063044,Nerano
+15063044,Schiazzano
+15063044,Termini
+15063044,Annunziata
+15063044,Arenaccia
+15063044,Arorella
+15063044,Capo d'Arco
+15063044,Conca Verde
+15063044,Coppetelle
+15063044,Montecorbo
+15063044,Pontone a Marciano
+15063044,Punta Lagno
+15063044,Riviera di Marcigliano
+15063044,Roncato
+15063044,San Filippo
+15063044,San Montano
+15063044,Sant'Anna
+15063044,Sirenuse
+15063044,Villazzano I
+15063044,Villazzano II
+15063045,Melito di Napoli
+15063046,Alberi
+15063046,Meta
+15063047,Monte di Procida
+15063048,Mugnano di Napoli
+15063049,Napoli
+15063049,Masseria Romano
+15063050,Casamarciano
+15063050,Cinquevie
+15063050,Nola
+15063050,Pagliarone
+15063050,Piazzola
+15063050,Pollastri
+15063050,Polvica
+15063050,Via Arno
+15063050,Cappella degli Spiriti
+15063050,Castelcicala
+15063050,Catapano
+15063050,Martiniello
+15063050,Mascello
+15063050,Mascia
+15063050,Pigna Spaccata
+15063050,Poverello
+15063050,Provisiero
+15063050,Sarnella
+15063050,De Siervo
+15063050,Napoli
+15063050,Cis
+15063050,S.S. 7bis
+15063050,Vulcano Buono
+15063051,Ottaviano
+15063052,Castello
+15063052,Palma Campania
+15063052,Pozzoceravolo
+15063052,Vico
+15063052,San Nicola
+15063052,Ciccarelli
+15063052,Fattore-Liverna
+15063052,Minichini
+15063052,Pianillo
+15063052,Tirone
+15063053,Colli di Fontanelle
+15063053,Piano di Sorrento
+15063054,Franche
+15063054,Piazza-Tralia-Pendolo
+15063054,Resicco
+15063055,Fornillo
+15063055,Poggiomarino
+15063055,Poggiomarino
+15063056,Musci
+15063056,Pollena Trocchia
+15063056,Tamburiello
+15063057,Pomigliano d'Arco
+15063057,Fornaro
+15063057,Guadagni
+15063057,Ciccarelli
+15063057,Papaccio
+15063057,Cutinelli
+15063057,Fiat S.p.A. ed Indotto
+15063058,Calvanese
+15063058,Case Androni
+15063058,Pompei
+15063058,Chiesa della Giuliana
+15063058,Fossa di Valle
+15063058,Acanfora
+15063059,Portici
+15063060,Grotta del Sole III
+15063060,Lido di Licola
+15063060,Montagna Spaccata
+15063060,Monterusciello
+15063060,Pozzuoli
+15063060,Castagnaro
+15063060,Privata Monterusso
+15063060,Sant'Angelo
+15063060,Alveo Camandoli
+15063060,Palombara
+15063060,Cofanara I
+15063060,Monte di Cuma
+15063060,Cigliano
+15063060,Cupa Fescine
+15063060,Cofanara
+15063060,Arco Felice Vecchio
+15063060,I Trav. Monterusciello
+15063060,Cupa Fescine 1
+15063060,Monterusciello est
+15063061,Procida
+15063062,Qualiano
+15063062,Oleandro
+15063062,Ripuaria
+15063062,Localita' Industriale Riccio
+15063063,Quarto
+15063063,Buongiorno
+15063063,Cafone
+15063063,Sciccone
+15063063,Spinelli I
+15063063,Spinelli II
+15063063,Zighinella
+15063064,Ercolano
+15063065,Polvica
+15063065,Roccarainola
+15063065,Calcara Pagliara
+15063065,Costa Grande
+15063066,San Gennaro Vesuviano
+15063066,Cinque Vie
+15063067,San Giorgio a Cremano
+15063068,Piano del Principe
+15063068,San Giuseppe Vesuviano
+15063068,Muscettoli
+15063068,Marini
+15063069,San Paolo Bel Sito
+15063070,San Sebastiano al Vesuvio
+15063071,Colli di Fontanelle
+15063071,Sant'Agnello
+15063071,Cepano
+15063072,Guadagni
+15063072,Marra-Marciano
+15063072,Ponte di Ferro
+15063072,Sant'Anastasia
+15063072,Starza Vecchia
+15063072,Masseria Coscialonga
+15063072,Sellaro
+15063073,Ponte Mezzotta
+15063073,Sant'Antimo
+15063073,Area P.I.P.
+15063074,Sant'Antonio Abate
+15063074,Fusara
+15063075,San Vitaliano
+15063076,Montagnola
+15063076,Piazzolla
+15063076,Saviano
+15063076,Panico
+15063076,Pigna Spaccata
+15063077,Scisciano
+15063077,Spartimento
+15063077,Cerreto
+15063077,Camaldoli
+15063077,Capasso
+15063078,Sant'Angelo
+15063078,Serrara Fontana
+15063078,Migliaccia
+15063079,Fornaro
+15063079,Somma Vesuviana
+15063079,Crocelle Camaldoli
+15063079,Lupa
+15063079,Musciabuono
+15063079,Paradiso
+15063079,Reviglione
+15063079,Malatesta
+15063079,Iovino
+15063079,Ex Fungaia de Siervo
+15063080,Pontone
+15063080,Sorrento
+15063080,Priora
+15063081,Striano
+15063082,Terzigno
+15063083,Torre Annunziata
+15063084,Torre del Greco
+15063085,Contrada Cesina
+15063085,Risigliano
+15063085,Schiava
+15063085,Tufino
+15063085,Vignola
+15063085,Trattamento rifiuti
+15063086,Arola-Preazzano
+15063086,Moiano
+15063086,Montechiaro
+15063086,Patierno
+15063086,Ticciano
+15063086,Vico Equense
+15063086,Villaggio Monte Faito
+15063086,Antignano
+15063086,Belvedere
+15063086,Santa Maria del Castello
+15063086,Convento San Francesco
+15063087,Villaricca
+15063087,Torretta-Scalzapecora
+15063087,Torretta-Scalzapecora I
+15063087,Torretta-Scalzapecora II
+15063087,Torretta-Scalsapecora III
+15063088,Visciano
+15063089,Volla
+15063090,Santa Maria La Carità
+15063091,Trecase
+15063092,Massa di Somma
+15064001,Aiello del Sabato
+15064001,Sabina
+15064001,Bosco San Raffaele I
+15064001,Bosco San Raffaele II
+15064001,Bosco San Raffaele III
+15064001,Campomanente
+15064001,Carpine
+15064001,Cellara
+15064001,Coste Anitra I
+15064001,Greci II
+15064001,Selve Vecchie
+15064001,Bosco I
+15064001,Bosco II
+15064001,Bosco III
+15064002,Altavilla Irpina
+15064002,Carbocisi
+15064002,Pincera
+15064002,Ponte dei Santi
+15064003,Andretta-Mattinella
+15064003,Alvano
+15064003,Arenara
+15064003,Casadogna
+15064003,Masserie Guglielmo
+15064003,Masserie Nigro
+15064003,Pisciolo
+15064003,Schiavi
+15064004,Aquilonia
+15064004,Contrada Malepasso
+15064005,Ariano Irpino-Martiri
+15064005,Ariano Scalo
+15064005,Orneta
+15064005,Accoli
+15064005,Bassiello
+15064005,Carpiniello
+15064005,Case Ex Bellangelo
+15064005,Case Petrozza
+15064005,Case Stillo
+15064005,Castaglione II
+15064005,Cervo
+15064005,Costa San Paolo
+15064005,Croce Anselice
+15064005,Ficucelle
+15064005,Foresta
+15064005,Frolice
+15064005,Gaudiciello
+15064005,Grignano II
+15064005,Macchiarello
+15064005,Valleluogo
+15064005,Masciano
+15064005,Masseria Capoiazzo
+15064005,Masseria Scarpellino
+15064005,Masseria Starza
+15064005,Palazzisi
+15064005,Patierno
+15064005,Pianotaverna
+15064005,Ponnola
+15064005,Santa Barbara I
+15064005,Santa Barbara II
+15064005,Santa Regina
+15064005,San Vito
+15064005,Serra
+15064005,Serralonga
+15064005,Stratola
+15064005,Tesoro
+15064005,Torre degli Amanti
+15064005,Tranzano
+15064005,Tressanti
+15064005,Trimonti
+15064005,Valdugliano II
+15064005,Valdugliano IV
+15064005,Case Oliva
+15064005,Case Sicuranza
+15064005,Fontana Angelica
+15064005,Masseria Chiuppo di Bruno
+15064005,Masseria Cusano
+15064005,Masseria la Falceta
+15064005,Masseria le Monache
+15064005,Masseria Montagna
+15064005,Masseria Montefalco
+15064005,Masseria San Giovanni
+15064005,Santa Maria A Tuoro
+15064005,Ponte Losbergo
+15064005,Masseria Bongo
+15064005,Masseria Gambacorta
+15064005,Brecceto
+15064005,Madonna delle Grazie
+15064005,Case Meucci
+15064005,Turco
+15064005,Camporeale
+15064006,Atripalda
+15064006,San Vincenzo
+15064006,Alvanite
+15064007,Avella
+15064008,Avellino
+15064008,Bellizzi Irpino
+15064008,Picarelli
+15064008,Archi 2
+15064008,Cardalani
+15064008,Cretazzo
+15064008,Pennini
+15064008,Quattrograna
+15064008,Santa Caterina
+15064008,Sant'Oronzo-Tufarole
+15064008,Scrofeta
+15064008,Serroni
+15064008,Campilonghi
+15064008,Selve
+15064008,Santa Caterina II
+15064008,Sant'Oronzo III
+15064008,Sant'Eustachio
+15064008,Pagliarone
+15064008,Pennini II
+15064008,Ospedale Maffucci
+15064008,Santa Caterina III
+15064008,Santorelli
+15064009,Bagnoli Irpino
+15064009,Villaggio Laceno
+15064009,Rosole
+15064010,Baiano
+15064011,Bisaccia
+15064011,Bisaccia Nuova
+15064011,Oscata
+15064011,Calaggio
+15064011,Calli
+15064011,Macchitella
+15064011,Masseria di Sabato
+15064011,Piani San Pietro
+15064012,Bonito
+15064012,Grieci
+15064012,Morroni
+15064012,Beatrice
+15064012,Cinquegrana
+15064012,Cinquegrana I
+15064012,Grieci I
+15064012,Grieci II
+15064012,Maleprandi I
+15064012,Masiello Tordiglione
+15064012,Masiello Tordiglione I
+15064012,Masiello Tordiglione II
+15064012,Beatrice II
+15064012,Morroni III
+15064013,Cairano
+15064014,Calabritto
+15064014,Quaglietta
+15064014,Bralia
+15064014,San Mauro
+15064014,Serroni
+15064015,Calitri
+15064015,Scalo Calitri-Pescopagano
+15064015,Isca
+15064015,Nerico
+15064016,Candida
+15064017,Caposele
+15064017,Materdomini
+15064017,Fornaci
+15064017,San Giovanni
+15064017,Santa Caterina
+15064017,Piani
+15064018,Capriglia
+15064018,Casale
+15064018,San Felice
+15064018,Breccelle I
+15064018,Breccelle II
+15064018,Pozzo del Sale
+15064018,Taverna Orneta
+15064018,Via Nazionale
+15064018,Fontana di Fuori
+15064018,Currieri
+15064019,Carife
+15064019,Ariacchino
+15064019,Fiumara
+15064019,Serra di Fusco
+15064020,Casalbore
+15064020,Masseria San Pietro
+15064020,Pagliarone
+15064020,Mainardo
+15064021,Cassano Irpino
+15064021,Iardino
+15064021,Longa I
+15064021,Trasale
+15064021,Montevergine
+15064022,Castel Baronia
+15064022,Russo
+15064023,Castelfranci
+15064023,Vallicelli
+15064023,Baiano
+15064023,Bocchino
+15064023,La Sala
+15064023,Perillo I
+15064023,Perillo II
+15064023,Storti
+15064023,Valle
+15064023,Sant'Eustachio
+15064023,Braudiano
+15064024,Castelvetere sul Calore
+15064024,Cipollara
+15064024,San Gregorio
+15064024,Toppolocozzetto
+15064024,Tremauriello
+15064024,Vioni-Valle
+15064025,Trescine
+15064026,Cesinali
+15064026,Villa San Nicola
+15064026,Arcella
+15064026,Oratorio
+15064027,Chianche
+15064027,Chianchetelle
+15064027,San Pietro Irpino
+15064027,Stazione di Chianche-Ceppaloni
+15064028,Chiusano di San Domenico
+15064028,Acqualemma
+15064029,Contrada
+15064029,Bisceglie
+15064029,Schiti
+15064029,P.I.P.
+15064030,Nuova Conza della Campania
+15064030,Aree Industriali
+15064030,P.I.P.
+15064031,Casamanzi
+15064031,Casola
+15064031,Domicella
+15064031,Tavernola
+15064031,Pisani
+15064031,Area Industriale
+15064032,Flumeri
+15064032,Murge
+15064032,Tre Torri
+15064032,Candelaro
+15064032,Candelaro I
+15064032,Candelaro II
+15064032,Corridoio
+15064032,Corvarana
+15064032,Difesa
+15064032,Laghi-Valle
+15064032,Lagni
+15064032,Pastinelli
+15064032,Pilone
+15064032,San Pietro
+15064032,San Vito
+15064032,Scampata
+15064032,Tierzi
+15064032,Fondo Valle Ufita
+15064033,Fontanarosa
+15064033,Area P.I.P.
+15064034,Celzi
+15064034,Forino
+15064034,Petruro
+15064034,Casal di Creta
+15064034,Castello
+15064034,Petrosa
+15064034,Rapone
+15064035,Cellaro Basso
+15064035,Frigento
+15064035,Pagliara
+15064035,Pila Ai Piani
+15064035,Fontana Levara
+15064035,Piano della Croce-Mattine
+15064035,San Cosmo
+15064035,San Silvestro
+15064035,Cortiglio
+15064035,Fontana Madonna
+15064035,Lappierti
+15064035,Marzano
+15064035,Molara
+15064035,Pacchiana
+15064035,Parco
+15064035,Piani
+15064035,Mattine
+15064035,Taverna di Annibale
+15064036,Gesualdo
+15064036,Schiavone
+15064036,Pacchiano
+15064037,Greci
+15064037,Scalo di Savignano e Greci
+15064037,Mazzincollo
+15064038,Carpignano
+15064038,Grottaminarda
+15064038,Bosco Sant'Elia
+15064038,Ciavolone
+15064038,Conduttiello
+15064038,Feudo Cortesano
+15064038,Piano Filette
+15064038,Pezza Stefano Assanti
+15064038,Marmo
+15064038,San Martino
+15064038,San Pietro
+15064038,Schivito
+15064038,Tremolizzi
+15064038,Bosco
+15064038,Barraso
+15064038,Ponticelli
+15064038,Fontanelle
+15064038,Piani
+15064038,Toppolo
+15064038,Catauro
+15064038,Losbergo
+15064039,Grottolella
+15064039,Pozzo del Sale
+15064039,Taverna del Monaco
+15064039,Tropeani
+15064040,Borgo le Taverne
+15064040,Guardia Lombardi
+15064040,Case Siconolfi
+15064040,Masseria Maiorano
+15064040,Rione Forche
+15064040,Rione Fornace
+15064040,Rione Montemarano
+15064040,Santa Maria Manganelli
+15064041,Lacedonia
+15064041,Rione Gino Chicone
+15064041,Area Industriale Calaggio
+15064042,Lapio
+15064042,Arianiello
+15064042,Casale Monaci
+15064042,Cortejoanna
+15064042,Tognano
+15064042,Crete
+15064042,Fortuna
+15064043,Lauro
+15064043,Migliano
+15064043,Pignano
+15064044,Lioni
+15064044,Contrada Procisa Vecchia
+15064044,Contrada Procisa Vecchia 1
+15064044,Santa Maria del Piano
+15064044,Procisa Nuova
+15064044,Piano Oppido
+15064044,Lago
+15064044,Oppido
+15064044,Soriano
+15064045,Luogosano
+15064045,Area Industriale San Mango
+15064046,Faenzera-Pastenaca
+15064046,Manocalzati
+15064046,San Barbato
+15064046,Calzisi
+15064046,Contrada Piano
+15064046,Federici
+15064046,Festola
+15064046,Generale del Mauro
+15064046,Gissara-Starze
+15064046,Gissara-Starze I
+15064046,Gissara-Starze II
+15064046,Orni
+15064046,Provinciale I
+15064046,Provinciale II
+15064046,Provinciale III
+15064046,Sorcinelli
+15064046,Torre
+15064046,Variante Est
+15064047,Marzano di Nola
+15064047,Torre
+15064047,Tavernola
+15064048,Melito Irpino
+15064048,Cozza
+15064048,Difesa Grande
+15064048,Fontana del Bosco
+15064048,Incoronata
+15064048,Orticello
+15064048,Tuopo
+15064048,Iv Civico
+15064048,Murge
+15064048,Barascigno
+15064049,Mercogliano
+15064049,Torelli-Torrette
+15064049,Serroni
+15064049,Serroni B
+15064049,Santuario di Montevergine
+15064049,Località Macera
+15064050,Calore
+15064050,Mirabella Eclano
+15064050,Passo di Mirabella-Pianopantano
+15064050,Acquafredda
+15064050,Airola
+15064050,Alvaneta
+15064050,Amendola
+15064050,Arenara
+15064050,Barricella
+15064050,Boschetto
+15064050,Bosco San Pietro
+15064050,Bosco Torre
+15064050,Calore Variante
+15064050,Cauzillo
+15064050,Cerzito Alto
+15064050,Cerzito Grande
+15064050,Cerzito Piccolo
+15064050,Cesine
+15064050,Chiocche del Forno
+15064050,Esche
+15064050,Fontana di Sale
+15064050,Fontanelle
+15064050,Guinnazzi
+15064050,Iscalonga
+15064050,Lago
+15064050,Madonna delle Grazie
+15064050,Moliniello Pescara
+15064050,Montesicco
+15064050,Nociaccia
+15064050,Perrotta
+15064050,Pescole
+15064050,Petraro
+15064050,Petrito
+15064050,Piana dei Greci
+15064050,Pigno
+15064050,Pomice
+15064050,Ponterotto
+15064050,Pozzillo Muso
+15064050,San Francesco
+15064050,San Paolo
+15064050,San Pietro
+15064050,Santa Caterina
+15064050,Sommito
+15064050,Vadelupo
+15064050,Coculo
+15064050,Laureta
+15064050,Prefabbricati Concezione Monte
+15064051,Montaguto
+15064051,Taverna di Montaguto
+15064052,Cappella Madonna di Pompei
+15064052,Cesine
+15064052,Montecalvo Irpino
+15064052,Abbondanza
+15064052,Benvenuto
+15064052,Buodano
+15064052,Corsano
+15064052,Creta
+15064052,Cusano
+15064052,De Furia
+15064052,Frascino
+15064052,Malvizza di Sopra
+15064052,Masseria Parlante
+15064052,Olivara
+15064052,San Felice
+15064052,Santo Spirito
+15064052,Spinelli
+15064052,Tressanti
+15064052,Goldoni-Stiscia
+15064052,Pepe
+15064052,Cerreta (Grandola)
+15064052,Russolillo
+15064052,Parzanese
+15064052,Laterificio Marra
+15064053,Montefalcione
+15064053,San Fele
+15064053,Toriello-Petruzzielli
+15064053,Guarini-Santa Marina I
+15064053,Cataldi
+15064053,Guarini-Santa Marina II
+15064053,Iantosca
+15064053,Polcari-Rastiello
+15064053,Toppolo San Felice
+15064053,Verzare-Lolli
+15064053,Castelrotto
+15064053,Guarini-Santa Marina III
+15064053,Stazione
+15064054,Molinelle
+15064054,Monteforte Irpino
+15064054,Gaudi
+15064054,Rivarano
+15064054,Monteforte-Molinelle
+15064054,Piano Alvanella
+15064055,Montefredane
+15064055,Fratte
+15064055,Sant'Antonio
+15064055,Arcella
+15064055,Alimata
+15064056,Montefusco
+15064056,Serra
+15064056,Sant'Egidio
+15064057,Montella
+15064057,Località Sotto Monticchio
+15064057,Località Fossalupo
+15064057,Via San Francesco
+15064057,San Francesco
+15064057,Zona P.I.P. Località Folloni
+15064058,Canali
+15064058,Montemarano
+15064058,Ponteromito
+15064058,Torre
+15064058,Cancelli
+15064058,Casa Arsa
+15064058,Cortecorbo
+15064058,Macchia del Monte I
+15064058,Santo Stefano
+15064058,Terrone
+15064059,Montaperto
+15064059,Montemiletto
+15064059,Serra
+15064059,Caponi
+15064059,Festola
+15064059,Lomba
+15064059,San Bartolomeo
+15064059,San Giovanni
+15064059,Bosco
+15064059,Bosco Lumeti
+15064059,Lomba Cave
+15064059,Orno
+15064059,Stazione di Montemiletto
+15064059,Località P.I.P. 1
+15064059,Località P.I.P. 2
+15064060,Monteverde
+15064061,Borgo
+15064061,Misciano
+15064061,Piano
+15064061,Piazza di Pandola
+15064061,San Bartolomeo
+15064061,San Felice
+15064061,Bosco dei Fichi
+15064061,Ferriera
+15064061,Labso
+15064061,Macchioni
+15064061,Volpari
+15064061,Area P.I.P.
+15064062,Banzano
+15064062,Petrara
+15064062,San Pietro
+15064062,Torchiati
+15064062,Ricciardelli
+15064062,Boscomatarazzo
+15064062,Casacastello
+15064062,Cimitero
+15064062,Cinquanta
+15064062,Galdo 1
+15064062,Iungito
+15064062,Masseria
+15064062,Pisana
+15064062,Pozzillo
+15064062,Starza
+15064062,Sala
+15064063,Morra de Sanctis
+15064063,Cervino
+15064063,Caputi 2
+15064063,Orcomone
+15064063,Caputi
+15064063,Orcomone Uregori
+15064063,Arcoli
+15064063,Orcomone 2
+15064063,Roccomanzi
+15064063,Santa Lucia (Angiluni)
+15064063,Santa Lucia (Chiesa)
+15064063,Cappella
+15064063,Area Industriale
+15064064,Moschiano
+15064064,Santa Cristina
+15064065,Mugnano del Cardinale
+15064066,Nusco
+15064066,Ponteromito
+15064066,Campo di Nusco
+15064066,Casale Teta
+15064066,Lago
+15064066,Macchia I
+15064066,Macchia II
+15064066,Cesine
+15064066,Serre
+15064066,San Miele
+15064066,Mito
+15064066,Macchia III
+15064066,Fiorentino I
+15064066,Fiorentino II
+15064067,Ospedaletto d'Alpinolo
+15064067,Casale
+15064068,Pago del Vallo di Lauro
+15064068,Sopravia
+15064069,Parolise
+15064069,Serra
+15064070,Paternopoli
+15064070,Chiarino
+15064070,Casale
+15064070,San Michele
+15064070,Carbonieri
+15064070,Mattine
+15064071,Petruro Irpino
+15064071,Lago
+15064072,Dentecane
+15064072,Pietradefusi
+15064072,Sant'Angelo A Cancelli
+15064072,Sant'Elena Irpina
+15064072,Pappaceci
+15064072,Vertecchia
+15064072,Acquaviva
+15064072,San Sabino
+15064072,P.I.P. Dentecane
+15064073,Pietrastornina
+15064073,Cappella
+15064073,Case Mabili
+15064073,Case Ragucci
+15064073,Case Rossi
+15064073,Ciardelli Inferiore
+15064073,Ciardelli Superiore
+15064073,Due Strade
+15064073,Furmo
+15064073,Grastiello
+15064073,Iuliani
+15064073,Paradisi
+15064073,Piantedosi
+15064073,Sacconi
+15064073,Salvatori
+15064073,Sellitti
+15064073,Verzara
+15064073,Starza
+15064074,Prata di Principato Ultra
+15064074,Tavernanova
+15064074,Annunziata
+15064074,Pontesabato
+15064074,L.P. Pontesabato
+15064075,Pratola Serra
+15064075,San Michele di Pratola
+15064075,Serra
+15064075,Case Cocciacavallo
+15064075,Case Saudelle di Sopra
+15064075,Case Scoppole
+15064075,Case Saudelle di Sotto
+15064075,Case Acquaviva
+15064075,Località Ponte Sabato
+15064076,Quadrelle
+15064077,Quindici
+15064077,Beato
+15064077,Bosagro
+15064078,Cassano
+15064078,Roccabascerana
+15064078,Squillani
+15064078,Tufara
+15064078,Tuoro
+15064078,Zolli
+15064078,Barbati
+15064078,Caraccioli
+15064078,Severini
+15064078,Vernilli
+15064078,Area Produttiva di Tufara
+15064079,Rocca San Felice
+15064079,Carmasciano I
+15064079,Carmasciano II
+15064079,Fontana dell'Olmo
+15064079,Palombaia
+15064079,Santa Felicita
+15064079,Serro del Bosco
+15064079,Toriello
+15064079,Valli
+15064079,Toriello II
+15064079,P.I.P.
+15064080,Campizze
+15064080,Rotondi
+15064081,Salza Irpina
+15064081,Campetelle
+15064082,San Mango sul Calore
+15064082,Cantarelle
+15064082,Poppano
+15064082,Piani
+15064082,Area P.I.P.
+15064083,San Martino Valle Caudina
+15064083,Staz.Di San Martino Valle Caudina
+15064083,Tufara
+15064083,Campanino
+15064083,Casadami
+15064083,Clementi
+15064083,Crocevia-Innocenzi
+15064083,Girone
+15064083,Iardino
+15064083,Mancini
+15064083,Masseria Teti
+15064083,Poeti
+15064083,Quercino
+15064083,Tedeschi
+15064083,Vitaliani
+15064083,Sferracavallo
+15064084,San Michele di Serino
+15064084,Madonna delle Grazie
+15064084,Contrada Demattia
+15064084,Via S.Candida Ortali
+15064084,Via Zappelle
+15064084,Zona Industriale Via Nocelleto
+15064085,San Nicola Baronia
+15064086,San Potito Ultra
+15064086,Macchie
+15064086,Contrada Ramiera
+15064087,San Sossio Baronia
+15064087,Civita
+15064087,San Leonardo
+15064088,Santa Lucia di Serino
+15064089,Sant'Andrea di Conza
+15064089,Cesina Nuova
+15064090,Sant'Angelo All'Esca
+15064091,Sant'Angelo A Scala
+15064092,Sant'Angelo dei Lombardi
+15064092,Scannacapra
+15064092,San Gennaro
+15064092,Cona
+15064092,Goleto
+15064092,Barricella
+15064092,Squarciafico
+15064092,Basso
+15064092,Sant'Antuono
+15064092,San Vito
+15064092,Piano Messano
+15064092,Montevergine
+15064092,Camoia
+15064092,Carcere
+15064092,Porrara
+15064093,Santa Lucia
+15064093,Santa Paolina
+15064093,Taverna Figura
+15064093,Castelmozzo
+15064093,Marotta
+15064093,Paoloni
+15064093,Picoli
+15064093,Ponte Zeza
+15064093,Sala
+15064093,Viturano
+15064095,Santo Stefano del Sole
+15064095,Capolungo
+15064095,Casino
+15064095,Macchie
+15064095,San Giuseppe
+15064095,San Pietro
+15064095,Sozze di Sopra
+15064095,Sozze di Sotto
+15064095,Starze
+15064095,Toppolo
+15064096,Savignano Irpino
+15064096,Scalo di Savignano e Greci
+15064096,Ciccotonno
+15064096,Ortichella
+15064096,Ischia
+15064097,Città di Contra
+15064097,Ghirico
+15064097,Scampitella
+15064097,Bosco di Contra
+15064097,Guardiola
+15064098,Senerchia
+15064098,Quaglietta
+15064099,Canale
+15064099,Sala
+15064099,Troiani
+15064099,Toppola
+15064099,Canale Secondo
+15064100,Sirignano
+15064101,Solofra
+15064101,San Francesco
+15064102,Sorbo Serpico
+15064102,Cerreta
+15064103,Sperone
+15064103,Località Santa
+15064104,Sturno
+15064104,Crocevie
+15064104,Filette
+15064104,Serradenzita
+15064104,Pantanelle-Montana
+15064104,Serrapreta
+15064104,Sterparo
+15064104,Amendola
+15064104,Ficuciello
+15064104,Tesoro
+15064104,Torone
+15064104,Costantini
+15064104,Lenze Della Corte
+15064104,P.I.P. di contrada Crocevie
+15064105,Cappella
+15064105,Summonte
+15064105,Embriciera
+15064105,Starze
+15064106,Taurano
+15064107,Taurasi
+15064107,Costa delle Rose
+15064108,Teora
+15064109,Torella dei Lombardi
+15064109,Acquara
+15064109,Pianomarotta
+15064109,San Vito
+15064109,Fossi della Corte
+15064109,Ponticelli
+15064109,Serrone
+15064110,Torre le Nocelle
+15064110,Felette
+15064110,Fontana d'Agli
+15064110,Madonna delle Grazie
+15064110,San Mercurio
+15064110,Grifi
+15064110,Grifi-P.I.P.
+15064110,Campoceraso-P.I.P.
+15064111,Torrioni
+15064111,Bosco
+15064111,Campore
+15064111,Guardie
+15064112,Bassomanno
+15064112,Farullo-Caprareccia
+15064112,Lungarella
+15064112,Molini
+15064112,Trevico
+15064112,Santa Lucia
+15064112,Santa Marena
+15064112,Vecito
+15064113,San Paolo
+15064113,Santa Lucia
+15064113,Tufo
+15064113,Branete
+15064114,Santa Lucia
+15064114,Vallata
+15064114,Carosina di Sopra
+15064114,Mezzana Perazze I
+15064114,Piano Calcato
+15064114,Sferracavallo
+15064114,Terzo di Mezzo I
+15064114,Terzo di Mezzo II
+15064114,Mezzana Perazze II
+15064114,P.I.P. Industriale Maggiano
+15064115,Cotugno
+15064115,San Giuseppe
+15064115,Serro d'Annunzio
+15064115,Vallesaccarda
+15064115,Civita
+15064115,Mattine
+15064115,Vasoria
+15064115,Guardiola
+15064116,Calore
+15064116,Campanarello
+15064116,Castello del Lago
+15064116,Colonna Madama
+15064116,Colonna San Giovanni
+15064116,Cuorno
+15064116,Ilici
+15064116,San Nicola I
+15064116,San Nicola II
+15064116,Ilici 1
+15064116,San Martino
+15064116,Colonna San Giovanni 1
+15064116,Colonna San Giovanni 2
+15064117,Villamaina
+15064117,Sotto le Coste
+15064117,Santa Caterina (Contrada)
+15064117,Mazzarella
+15064117,Zona produttiva Bagni
+15064118,Villanova del Battista
+15064118,Piani Viscose
+15064118,Serro Palumbo
+15064119,Volturara Irpina
+15064119,Tavernole
+15064120,Zungoli
+15064120,Taverna
+15065001,Acerno
+15065002,Agropoli
+15065002,Campanina
+15065002,Cannetiello
+15065002,Fonte Saraceno
+15065002,Iscalonga
+15065002,Mancone
+15065002,Marettima
+15065002,Mattine
+15065002,Muoio
+15065002,Palombe
+15065002,Picone
+15065002,Principe
+15065002,San Biagio
+15065002,Serra
+15065002,Streppina
+15065002,Torre
+15065002,La Vecchia
+15065002,Piscone
+15065002,Piaggese
+15065002,Monaci
+15065002,Torretta
+15065002,Ventre
+15065002,Destre
+15065002,Ponti Rossi
+15065002,Mutalipassi
+15065002,Marrota
+15065002,Agropoli Sud
+15065003,Albanella
+15065003,Borgo San Cesareo
+15065003,Matinella
+15065003,Bosco
+15065003,Bosco Camerine
+15065003,Cerrina II
+15065003,Perelle
+15065003,Piano del Carpine I
+15065003,Piano del Carpine II
+15065003,Raccoli
+15065003,San Cesareo I
+15065003,San Cesareo II
+15065003,San Chirico II
+15065003,San Nicola
+15065003,Santa Croce
+15065003,Tempa delle Guardie I
+15065003,Forestelle
+15065003,Vallecentanni
+15065003,Via Fravita
+15065003,Vuccolo Cappasanta
+15065003,Via Provinciale I
+15065003,Zona Artigianale
+15065003,Via Provinciale
+15065004,Alfano
+15065005,Altavilla Silentina
+15065005,Borgo Carillia
+15065005,Cerrelli
+15065005,Cerrocupo
+15065005,Olivella
+15065006,Amalfi
+15065006,Tovere (San Pietro)
+15065006,Acquarola
+15065007,Angri
+15065008,Aquara
+15065009,Ascea
+15065009,Catona
+15065009,Mandia
+15065009,Marina
+15065009,Stanpella
+15065009,Terradura
+15065009,Bosco
+15065009,Casaline
+15065009,Piano della Torre
+15065009,Piolo
+15065009,Salice
+15065009,Santa Maria
+15065009,Santa Sofia
+15065009,Scifro
+15065009,Vreccia
+15065009,Pennino
+15065009,Baia Tirrena
+15065009,Enotria
+15065010,Atena Lucana
+15065010,Taverne
+15065010,San Giuseppe
+15065010,Serrone
+15065010,Zona Produttiva Mascero
+15065011,Atrani
+15065012,Auletta
+15065012,Tempe di Lizzi
+15065012,Mattina
+15065013,Antessano
+15065013,Baronissi
+15065013,Caprecano
+15065013,Fusara
+15065013,Nocelleto
+15065014,Battipaglia
+15065014,Santa Lucia Inferiore
+15065014,Santa Rosa
+15065014,Lago
+15065014,Monteleone
+15065014,San Mattia
+15065014,Torre dei Mussi
+15065014,Via Tempa delle Craste
+15065014,Aversana
+15065014,San Luigi
+15065014,San Emilio
+15065014,Verdesca
+15065014,Villa Lisa
+15065014,Spineta
+15065014,Iii Azienda
+15065014,Via Idrovora
+15065014,Parco Russo
+15065014,San Gaetano
+15065014,Tavernola
+15065014,Fasanara
+15065014,Fos
+15065015,Bellosguardo
+15065016,Bracigliano
+15065017,Buccino
+15065017,Pianelle
+15065017,San Giovanni
+15065017,Teglia
+15065017,Temponi
+15065017,Tufariello
+15065017,Sant'Antonio
+15065017,Rovaia
+15065017,Agglomerato Industriale
+15065018,Buonabitacolo
+15065019,Caggiano
+15065019,Fontana Caggiano I
+15065019,Mattina
+15065019,Mattina V
+15065019,Piedi L'Arma
+15065019,Calabri
+15065020,Calvanico
+15065021,Camerota
+15065021,Lentiscosa
+15065021,Licusati
+15065021,Marina di Camerota
+15065021,Monte di Luna
+15065021,Arconte
+15065021,Sinna
+15065021,Isca della Contessa
+15065021,Monte di Lunba
+15065022,Camaldoli
+15065022,Campagna
+15065022,Folcata
+15065022,Oppidi
+15065022,Puglietta
+15065022,Quadrivio
+15065022,Santa Lucia-Santa Maria la Nova
+15065022,Serradarce
+15065022,Romandola
+15065022,San Paolo
+15065022,San Zaccaria
+15065022,Vallegrini
+15065022,Avigliano
+15065023,Campora
+15065024,Cannalonga
+15065025,Cafasso-Borgo Nuovo
+15065025,Capaccio
+15065025,Capaccio Scalo
+15065025,Foce del Sele
+15065025,Gromola
+15065025,Laura
+15065025,Licinella-Torre di Paestum
+15065025,Paestum
+15065025,Pietrale-Capo di Fiume
+15065025,Ponte Barizzo
+15065025,Rettifilo-Vannullo
+15065025,Sabatella
+15065025,Santa Venere
+15065025,Spinazzo
+15065025,Vuccolo di Maiorano
+15065025,Andreoli
+15065025,Crispi
+15065025,Fuscillo
+15065025,Getsemani
+15065025,Residenza-Dorica
+15065025,Scigliati
+15065025,Seliano
+15065025,Seude Grattacaso
+15065025,Stregara
+15065025,Voltata del Forno
+15065025,Ciorlitto
+15065025,Barizzo di Sopra
+15065025,Trentalone
+15065025,Olmo Panno
+15065025,Campitiello
+15065025,Olmo Panno 1
+15065025,Isola
+15065025,Allevatori di Castori
+15065025,Olmo Panno 2
+15065025,Vasca di Colmata
+15065025,Podere San Bernardo
+15065025,Pila
+15065025,Podere San Rocco
+15065025,Sorvella
+15065025,Scigliati 1
+15065025,Podere San Donato
+15065025,C.Procuzzi
+15065025,Queglia
+15065025,Queglia 1
+15065025,Parula
+15065025,Pisciolo
+15065025,Gaiarda
+15065025,Santa Caterina
+15065025,Foce Sele
+15065025,Villaggio Merola
+15065026,Casalbuono
+15065027,Battaglia
+15065027,Casaletto Spartano
+15065027,Barbieri
+15065027,Caravo
+15065027,Castagnagrossa
+15065027,Castello
+15065027,Cerreta
+15065027,Chiapponi
+15065027,Conca
+15065027,Fortino
+15065027,Gioncoli
+15065027,Gramiziali
+15065027,Marano
+15065027,Melette
+15065027,Montegrosso
+15065027,Pantanelle
+15065027,Piè dei Balzi
+15065027,Serra dell'Edera
+15065027,Sisamo
+15065027,Vallefrassino
+15065027,Vallennora
+15065027,Vallonsecco
+15065027,Varco delle Chiappe
+15065027,Affonnatora
+15065027,Mariolomeo
+15065028,Acquavella
+15065028,Bivio Acquavella-Ponte
+15065028,Casal Velino
+15065028,Marina di Casal Velino
+15065028,Vallo Scalo
+15065028,Foce
+15065028,Verduzio
+15065028,Rungi
+15065028,Starza
+15065028,Carullo
+15065029,Caselle in Pittari
+15065029,Caporra
+15065029,Tempe
+15065030,Castelcivita
+15065030,Cosentini
+15065030,Case Cammarani
+15065030,San Tommaso
+15065030,Santo Spirito
+15065030,Vricciullo
+15065030,Terrabianca
+15065031,Alano
+15065031,Castellabate
+15065031,Ogliastro Marina
+15065031,San Marco
+15065031,Santa Maria
+15065031,Caprarizzo
+15065031,Cavafosse
+15065031,Licosa I
+15065031,Licosa II
+15065031,Licosa III
+15065031,Ogliastro
+15065031,Piano della Corte
+15065031,Pietà
+15065031,Salvatore
+15065031,San Pietro
+15065032,Castelnuovo Cilento
+15065032,Pantana
+15065032,Velina
+15065032,Salicuneta
+15065032,Via Grimmita
+15065033,Centro Urbano
+15065034,Castel San Giorgio
+15065034,Lanzara
+15065034,Macchione
+15065034,Piedimonte
+15065034,Starza dei Leoni
+15065034,Corcioni
+15065035,Castel San Lorenzo
+15065035,Madonna della Stella
+15065035,Pianella
+15065036,Castiglione del Genovesi
+15065036,Zana
+15065037,Cava Dè Tirreni
+15065037,Corpo di Cava
+15065037,Croce
+15065037,Breccelle
+15065037,Sant'Anna I
+15065037,Caselle Superiore
+15065037,Cesinola
+15065037,Citola
+15065037,Li Curti
+15065037,LocalitàTorre
+15065037,Petrellosa
+15065037,Pregiatello
+15065037,San Felice I
+15065037,San Felice II
+15065037,San Giuseppe al Pennino I
+15065037,San Giuseppe al Pennino Iv
+15065037,Sant'Antuono
+15065037,Alessia
+15065038,Celle di Bulgheria
+15065038,Poderia
+15065038,Cassolino
+15065038,Scalo Ferroviario
+15065039,Centola
+15065039,Foria
+15065039,Palinuro
+15065039,San Nicola
+15065039,San Severino
+15065039,Casaburi
+15065039,Belvedere
+15065039,Faracchio
+15065039,Porto
+15065039,Volpara
+15065039,Vallena
+15065040,Ceraso
+15065040,Massascusa
+15065040,Petrosa
+15065040,San Biase
+15065040,Santa Barbara
+15065040,Metoio
+15065041,Cetara
+15065042,Cicerale
+15065042,Monte Cicerale
+15065042,Defeselle camping
+15065042,Defeselle
+15065043,Colliano
+15065043,Ponte Oliveto-Bagni
+15065043,Bisigliano
+15065043,Macchia Grande
+15065043,Macchia Piccola
+15065043,San Vittore
+15065043,Sasso
+15065043,Filette
+15065043,Argentessa
+15065044,Conca dei Marini
+15065045,Controne
+15065046,Bagni di Contursi
+15065046,Contursi Terme
+15065046,Bagni Forlenza
+15065046,Monte Pruno
+15065046,Tempa del Corvo
+15065046,Stazione Contursi Terme
+15065046,Pruno Sottano
+15065046,Insediamenti turistico-Termale Tufaro
+15065046,Area Industriale P.I.P.
+15065047,Corbara
+15065047,Casamola
+15065048,Corleto Monforte
+15065049,Cuccaro Vetere
+15065050,Bivio Cioffi
+15065050,Bivio Santa Cecilia
+15065050,Corno d'Oro
+15065050,Eboli
+15065050,Campolongo I
+15065050,Campolongo II
+15065050,Casarsa
+15065050,Lago
+15065050,Tempa delle Craste
+15065050,Chiariello I
+15065050,Chiariello II
+15065050,Caselle
+15065050,Lama Traversa
+15065050,Cuccaro
+15065050,Torre dei Rai
+15065050,Bardascine
+15065050,Boscariello
+15065050,Fontanelle
+15065050,Aversana
+15065050,Tavernanova
+15065050,Torrette
+15065050,Papaleone
+15065050,Istituto Elio Ortopedico
+15065050,Foce Sele
+15065050,Grataglie
+15065050,Pezza Grande
+15065051,Felitto
+15065052,Carpineto
+15065052,Fisciano
+15065052,Gaiano
+15065052,Lancusi-Penta-Bolano
+15065052,Pizzolano
+15065052,Settefichi
+15065052,Soccorso
+15065052,Faraldo-Nocelleto
+15065052,Villa
+15065052,Curteri
+15065052,Pozzillo
+15065052,Le Selve
+15065052,Macchione
+15065052,Cervito-Canfora
+15065053,San Michele
+15065054,Castinatelli
+15065054,Eremiti
+15065054,Futani
+15065055,Capitignano
+15065055,Prepezzano
+15065055,Sieti
+15065055,Malche-Santa Croce-Serroni
+15065055,Belvedere
+15065055,Ponte Molinello
+15065055,Sant'Antonio
+15065056,Curti
+15065056,Mercato
+15065056,Ornito
+15065056,San Giovanni-Santa Caterina
+15065056,Sovvieco
+15065056,Terravecchia
+15065056,Catelde
+15065056,Santa Maria A Vico
+15065056,Sardone
+15065056,Sardone-Munno
+15065056,Santa Maria
+15065057,Cardile
+15065057,Gioi
+15065057,San Paolo
+15065058,Giungano
+15065058,San Giuseppe
+15065058,Terrone
+15065059,Capitello
+15065059,Ispani
+15065059,San Cristoforo
+15065059,Serriere
+15065060,Archi
+15065060,Laureana Cilento
+15065060,Matonti-Vetrali
+15065060,San Martino
+15065060,Spinelli
+15065060,San Paolo I
+15065060,San Paolo III
+15065060,Contrada San Paolo
+15065061,Laurino
+15065061,Villa Littorio
+15065062,Laurito
+15065063,Laviano
+15065063,Campo Piano
+15065064,Corticelle
+15065064,Lustra
+15065064,Rocca Cilento
+15065064,Monacelli
+15065064,Sant'Antonio
+15065064,Pontirossi
+15065064,Selvatine
+15065064,Selva
+15065064,Villaggio Santoro
+15065064,Convento di San Francesco
+15065065,Capizzo
+15065065,Magliano Nuovo
+15065065,Magliano Vetere
+15065065,Contrada Palazzo Soccorso
+15065066,Erchie
+15065066,Maiori
+15065066,Ponteprimario
+15065067,Acquarola
+15065067,Carifi-Torello-Priscoli
+15065067,Ciorani
+15065067,Corticelle
+15065067,Mercato San Severino
+15065067,Monticelli
+15065067,Oscato
+15065067,Piazza del Galdo-Sant'Angelo
+15065067,Spiano
+15065067,Carratù
+15065067,Granfone
+15065067,Monticelli di Sopra
+15065067,Torrione
+15065067,Sant'Eustachio
+15065067,Costa
+15065068,Minori
+15065069,Moio della Civitella-Pellare
+15065070,Abatemarco
+15065070,Massicelle
+15065070,Montano Antilia
+15065070,Centopelli
+15065071,Agnone
+15065071,Baia Arena
+15065071,Case del Conte
+15065071,Cosentini
+15065071,Fornelli
+15065071,Montecorice
+15065071,Ortodonico
+15065071,Zoppi
+15065071,Capitello
+15065071,Giungatelle
+15065071,Magazzini
+15065071,Ponte San Nicola
+15065071,Rosaine
+15065071,Roviscelli
+15065071,San Giovanni
+15065071,San Giovanni Alto
+15065071,San Nicola A Mare
+15065071,San Giovanni Basso
+15065072,Pratole
+15065072,Pugliano
+15065072,Santa Tecla-Castelpagano
+15065072,Torello
+15065072,Pagliarone
+15065072,San Vito
+15065072,Zona produttiva Pagliarone San Vito
+15065073,Gauro
+15065073,Macchia
+15065073,Montecorvino Rovella
+15065073,Occiano
+15065073,Annunziata
+15065073,Arpignano
+15065073,Cannito Pezze
+15065073,Incassata
+15065073,Pianella
+15065073,Aiello
+15065073,San Lorenzo I
+15065073,San Lorenzo II
+15065073,San Lorenzo III
+15065073,San Luca
+15065073,Valle Sant'Andrea
+15065073,Temponi
+15065073,Pezze
+15065073,Cappella-Cetrangolo
+15065074,Monteforte Cilento
+15065075,Monte San Giacomo
+15065076,Arenabianca
+15065076,Montesano Scalo
+15065076,Montesano sulla Marcellana
+15065076,Prato Comune
+15065076,Cessuta
+15065076,Magorno
+15065076,Tardiano
+15065076,Tempa la Mandra
+15065076,Tempa Pilone
+15065076,Tempa Mangini
+15065076,Filaro
+15065077,Morigerati
+15065077,Sicili
+15065078,Nocera Inferiore
+15065078,Montalbino
+15065078,Montevescovado
+15065078,Rullo
+15065078,Padula
+15065078,Zeccagnuolo
+15065078,Fiano
+15065078,Durano
+15065078,Cava Santacroce
+15065079,Nocera Superiore
+15065079,Casa Milite
+15065079,Citala
+15065079,Petraro Pucciano
+15065079,Starza
+15065079,Citala II
+15065079,Petraro Pareti I
+15065079,Pagliarone
+15065080,Novi Velia
+15065080,San Paolo
+15065080,Saucina
+15065081,Ogliastro Cilento
+15065081,Finocchito
+15065081,Ginestre
+15065081,Purgatorio
+15065081,Santa Caterina
+15065081,Santa Maria della Grazia
+15065081,Terzerie-Ficocelle
+15065082,Ariano
+15065082,Monticelli
+15065082,Salitto-Valle
+15065082,Frosano
+15065083,Oliveto Citra
+15065083,Ponte Oliveto-Bagni
+15065083,Casale
+15065083,Dogana
+15065083,Serroni
+15065083,Zona Industriale Staglioni
+15065084,Corticelle
+15065084,Omignano
+15065084,Omignano Scalo
+15065084,Pagliarole
+15065084,Cerreta-Padule
+15065084,Coste
+15065084,Piano della Chianca
+15065084,Pirolepre
+15065085,Orria
+15065085,Piano-Vetrale
+15065085,Casino Libano
+15065086,Ottati
+15065086,Chiaie
+15065087,Ascolese
+15065087,Padula
+15065087,Sterpone
+15065087,Volta Cammino
+15065087,Contrada Carrarola
+15065087,Contrada Cicirelli
+15065087,Contrada Fiumicello
+15065087,Contrada Fontanelle
+15065087,Contrada Noce del Conte
+15065087,San Giacomo
+15065087,Serre
+15065088,Pagani
+15065088,Acquaviva
+15065088,Mannara
+15065088,Tortora
+15065088,Zeccagnuolo
+15065089,Bivio
+15065089,Palomonte
+15065089,Perrazze
+15065089,Scorzo
+15065089,Fontana
+15065089,Pezzelle
+15065089,Sottana-Pantaglione
+15065089,Filette
+15065089,Valle
+15065089,Località Sperlonga
+15065090,Grotte
+15065090,Capezzano Inferiore
+15065090,Capriglia
+15065090,Capezzano-Cologna
+15065090,Coperchia
+15065090,Pellezzano
+15065090,San Giovanni
+15065091,Mercato Cilento
+15065091,Perdifumo
+15065091,Vatolla
+15065091,Difesa
+15065091,Giungatelle
+15065091,Maisi
+15065091,Noce
+15065091,San Pietro
+15065091,Località Paradiso
+15065091,Contrada Noce Bassa
+15065092,Ostigliano
+15065092,Perito
+15065092,Sant'Angelo
+15065093,Pertosa
+15065093,Muraglione
+15065094,Petina
+15065095,Piaggine
+15065096,Marina Lido
+15065096,Pisciotta
+15065096,Rodio
+15065096,Santa Caterina
+15065096,Caprioli
+15065096,Marina di Campagna
+15065096,Torre Gabella
+15065096,Gabella
+15065096,Pedali
+15065096,Valle di Marco
+15065097,Polla
+15065097,Sant'Antuono
+15065097,Tempio
+15065097,Cisterna
+15065097,Cangito
+15065097,Area Industriale
+15065098,Acciaroli
+15065098,Cannicchio
+15065098,Celso
+15065098,Galdo
+15065098,Pioppi
+15065098,Pollica
+15065099,Corvinia
+15065099,Faiano
+15065099,La Picciola
+15065099,Magazzeno
+15065099,Pontecagnano
+15065099,Sant'Antonio
+15065099,Caseificio
+15065099,Corigliano
+15065099,Pastini
+15065099,Casa Colucci
+15065099,Pozzi
+15065099,Lottizzazione Forte
+15065099,Seminario Metropolitano Giovanni Paolo II
+15065099,Pollice
+15065100,Montepertuso
+15065100,Positano
+15065100,Arienzo
+15065100,Laurito
+15065100,Nocelle
+15065101,Postiglione
+15065101,Acquara
+15065101,Canneto
+15065101,Lago Rosso
+15065101,Pescara
+15065101,Selva Nera
+15065101,Terzo di Mezzo
+15065102,Praiano
+15065103,Prignano Cilento
+15065104,Castiglione
+15065104,Ravello
+15065104,Marmorata
+15065104,Sambuco
+15065104,San Cosma
+15065105,Ricigliano
+15065106,Carratiello
+15065106,Fonte
+15065106,Roccadaspide
+15065106,Serra
+15065106,Tempalta
+15065106,Seude
+15065106,Acquaviva
+15065106,Casalotti
+15065106,Case Cammarano
+15065106,Case Conforti
+15065106,Case de Rosa
+15065106,Cavallo
+15065106,Coviello
+15065106,Fonte II
+15065106,Santo Jorio
+15065106,Seude vecchia
+15065106,Suveri
+15065106,Terzerie
+15065106,Verna
+15065106,Terzerie II
+15065106,Case Lettieri
+15065106,Aquaviva II
+15065107,Acquavena
+15065107,Roccagloriosa
+15065108,Casali-San Potito
+15065108,Roccapiemonte
+15065109,Rofrano
+15065109,San Menale
+15065109,Molino Vecchio
+15065109,Torno
+15065109,Treppaoli
+15065109,Cerreto
+15065110,Ariola
+15065110,Scalo Romagnano al Monte
+15065110,Palazzo
+15065111,Roscigno
+15065112,Rutino
+15065112,Rione Stazione
+15065113,Sacco
+15065114,Sala Consilina
+15065114,Termini-Sant'Agata
+15065114,Mezzana
+15065114,Ponte Cappuccini
+15065114,Ponte Filo-Barca
+15065114,Tempa Grue-Pedace
+15065114,Tempone
+15065115,Fasana
+15065115,Palazza
+15065115,Salento
+15065115,Maroccia
+15065116,Brignano Superiore
+15065116,Casa Rocco d'Amato
+15065116,Fuorni
+15065116,Lamia
+15065116,Piegolelle-San Bartolomeo
+15065116,Salerno
+15065116,San Nicola
+15065116,Carcapalle
+15065116,Casa Concilio
+15065116,Casa Ventura
+15065116,Case de Rosa
+15065116,Case Incarto
+15065116,Giovi Altimare
+15065116,Giovi Montena
+15065116,Località Renella
+15065116,Mandrizzo
+15065116,Masseria Fortino
+15065116,Masseria Fruscione
+15065116,Piezzo
+15065116,Ponte Guazzariello
+15065116,Torre Picentina
+15065116,Cupa Farano
+15065117,Salvitelle
+15065117,Braida
+15065117,Dovina
+15065117,Fontanelle-S. Giorgio
+15065117,Scoria
+15065117,Taverna Barone
+15065118,Campigliano
+15065118,San Cipriano Picentino
+15065118,Pezzano-Filetta
+15065118,Pigne
+15065119,Bosco
+15065119,San Giovanni A Piro
+15065119,Scario
+15065119,Strazzari
+15065119,Capolomonte
+15065119,Maloianno
+15065119,Palazzone
+15065119,Tre Mulini
+15065119,Occhiani
+15065119,Giuliano
+15065119,Pietralba
+15065119,Spineto
+15065119,Valle di Natale
+15065120,San Gregorio Magno
+15065120,Lavanghe
+15065120,Teglie
+15065120,Forluso
+15065120,Filette
+15065120,Area P.I.P.-Stritto
+15065121,San Mango Piemonte
+15065121,Campo Maiuri
+15065121,Chiusa
+15065121,Marcigliano
+15065121,Monticelli
+15065121,Trinità
+15065121,P.I.P.
+15065122,San Marzano sul Sarno
+15065123,Casalsottano
+15065123,Mezzatorre di San Mauro Cilento
+15065123,San Mauro Cilento
+15065123,Baia dei Pini-Parco Marghetto
+15065124,San Mauro la Bruca
+15065124,San Nazario
+15065124,Stazione di San Mauro la Bruca
+15065125,San Pietro al Tanagro
+15065125,Villaggio Paola
+15065125,Località Mattinelle-Zona P.I.P.
+15065126,San Rufo
+15065126,Fontana Vaglio
+15065127,Policastro Bussentino
+15065127,Santa Marina
+15065127,Contrada Crocefisso
+15065127,Contrada Hangar
+15065127,Contrada Lupinata
+15065127,Contrada Poria
+15065127,Santa Lucia
+15065127,Torre Oliva
+15065128,Sant'Angelo A Fasanella
+15065129,Sant'Arsenio
+15065130,Sant'Egidio del Monte Albino
+15065130,San Lorenzo
+15065131,Santomenna
+15065132,San Valentino Torio
+15065133,Sanza
+15065133,Posto della Madonna-Verlingieri
+15065134,Sapri
+15065135,Sarno
+15065135,Fiorentini
+15065135,La Marmora I
+15065135,La Marmora III
+15065135,Masseria de Crescenzi
+15065135,Masseria Londrone
+15065135,Ponte San Michele
+15065135,Santa Maria della Foce II
+15065135,Sant'Eramo
+15065135,Santo Iasso
+15065135,Tuostolo
+15065135,Turner
+15065135,Vecchia Striano
+15065135,San Vito
+15065135,Sant'Eramo I
+15065135,Santa Maria della Foce III
+15065135,Cutricchio
+15065135,San Marco
+15065135,Vallone Monaco
+15065136,Caiazzano
+15065136,Sassano
+15065136,Silla
+15065136,Varco Notar Ercole
+15065136,Bagno
+15065136,Fontanelle
+15065136,Molinella
+15065136,Santa Maria
+15065136,San Jacoviello-P.Te Cappuccini
+15065136,Vigne
+15065137,Scafati
+15065137,Cappella Don Lucido
+15065137,Contursi
+15065138,Pontone
+15065138,Scala
+15065139,Serramezzana
+15065139,Capograssi
+15065139,San Teodoro
+15065140,Borgo San Lazzaro
+15065140,Serre
+15065140,Spineto
+15065140,Spineto I
+15065140,Biancaneve
+15065140,Baraccamento
+15065140,Persano
+15065140,Loc.Pagliarone
+15065140,Loc.G.Murat
+15065140,Zona Produttiva Persano
+15065141,San Mango
+15065141,Santa Lucia
+15065141,Sessa Cilento
+15065141,Valle
+15065141,Castagneta
+15065141,Felittopiano
+15065141,Casigliano
+15065142,Siano
+15065142,Zona Industriale
+15065143,Castelluccio Cosentino
+15065143,Galdo
+15065143,Scorzo
+15065143,Sicignano degli Alburni
+15065143,Terranova
+15065143,Zuppino
+15065143,Contrada Piano San Vito
+15065143,Contrada Piano Grasso I
+15065143,Contrada Macchitelle
+15065143,Purgatorio
+15065143,San Licandro I
+15065143,San Licandro II
+15065144,Amalafede
+15065144,Drodo-Cavallo Mauro
+15065144,Guarrazzano
+15065144,San Giovanni
+15065144,Stella Cilento
+15065144,Caselle
+15065145,Gorga
+15065145,Stio
+15065146,Prato Perillo
+15065146,San Marco
+15065146,Teggiano-Macchiaroli
+15065146,Angiolelle
+15065146,Cappello
+15065146,Castagneto
+15065146,Giravolte
+15065146,Ischia
+15065146,Matina Iv
+15065146,Pozzale
+15065146,Pozzo
+15065146,San Paolo
+15065146,Tempa Rossa I
+15065147,Copersito
+15065147,Torchiara
+15065147,Contrada Cernicchiaro
+15065147,Contrada Case Bianche
+15065147,Contrada Impiso
+15065148,Torraca
+15065148,Fenosa
+15065149,Castelruggero
+15065149,Torre Orsaia
+15065149,Calleo
+15065150,Tortorella
+15065150,Caselle
+15065150,San Nicola
+15065151,Campinola
+15065151,Corsano
+15065151,Figlino
+15065151,Pietre
+15065151,Polvica
+15065151,Pucara
+15065151,Bolviso
+15065151,Breccelle I
+15065151,Carbonaro
+15065151,Casa Lauro
+15065151,Casa Vitagliano
+15065151,Conca
+15065151,Pendolo
+15065151,Sofilciano
+15065151,Trugnano
+15065151,Novella
+15065151,Ferriera
+15065151,Breccelle
+15065152,Trentinara
+15065153,Valle dell'Angelo
+15065154,Angellara
+15065154,Pattano
+15065154,Vallo della Lucania
+15065154,Badia
+15065154,Cerzito
+15065154,Velia
+15065154,Spinacelli
+15065155,Valva
+15065155,Serra Casigliano
+15065155,Madonnella
+15065156,Fortino
+15065156,Vibonati
+15065156,Villammare
+15065156,Cammaresano-Villano
+15065157,Albori
+15065157,Benincasa
+15065157,Dragonea
+15065157,Molina
+15065157,Raito
+15065157,Vietri sul Mare
+15065158,Bellizzi
+15065158,Bivio-Pratole
+15065158,Bivio San Vito
+15065158,Fabbrica Nuova
+15065158,Olmo
+15065158,Serroni
+15065158,Zona Industriale-Artigianale

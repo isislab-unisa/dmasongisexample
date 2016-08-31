@@ -1,0 +1,68 @@
+"15° Censimento generale della popolazione e delle abitazioni - Anno 2011 
+Metadati delle variabili del censimento della popolazione"	
+	
+FILE DI DIFFUSIONE PER SEZIONE DI CENSIMENTO  (SEZ)	
+	
+NOME CAMPO	DEFINIZIONE
+CODREG	Codice numerico che identifica univocamente la regione nell’ambito del territorio nazionale.
+REGIONE	Denominazione della regione.
+CODPRO	Codice numerico che identifica univocamente la provincia nell’ambito del territorio nazionale.
+PROVINCIA	Denominazione della provincia.
+CODCOM	Codice numerico che identifica univocamente il comune nell’ambito del territorio provinciale.
+COMUNE	Denominazione del comune.
+PROCOM	"Codice numerico che identifica univocamente il comune nell’ambito del territorio nazionale.
+Il valore è ottenuto dalla concatenazione del campo CODPRO con il campo CODCOM a tre digit."
+SEZ2011	"Codice numerico che identifica univocamente la sezione di censimento 2011 nell’ambito del territorio nazionale.
+Il valore è ottenuto dalla concatenazione del campo PROCOM con il campo NSEZ a 7 digit."
+NSEZ	Numero che identifica univocamente la sezione di censimento 2011 nell’ambito del territorio comunale.
+ACE	Numero che identifica univocamente l'area di censimento nell’ambito del territorio comunale.
+CODLOC	"Codice numerico che identifica la località 2011 nell’ambito del territorio comunale.
+Per la descrizione completa vedere la definizione dell'omonimo campo nel file di diffusione per località."
+CODASC	Codice numerico che identifica univocamente l'area subcomunale, ove presente, nell’ambito del territorio comunale.
+
+
+
+
+P1	Popolazione residente - Totale.
+P2	Popolazione residente - Maschi.
+P3	Popolazione residente - Femmine.
+P14	Popolazione residente - età < 5 anni.
+P15	Popolazione residente - età 5 - 9 anni.
+P16	Popolazione residente - età 10 - 14 anni.
+P17	Popolazione residente - età 15 - 19 anni.
+P18	Popolazione residente - età 20 - 24 anni.
+P19	Popolazione residente - età 25 - 29 anni.
+P20	Popolazione residente - età 30 - 34 anni.
+P21	Popolazione residente - età 35 - 39 anni.
+P22	Popolazione residente - età 40 - 44 anni.
+P23	Popolazione residente - età 45 - 49 anni.
+P24	Popolazione residente - età 50 - 54 anni.
+P25	Popolazione residente - età 55 - 59 anni.
+P26	Popolazione residente - età 60 - 64 anni.
+P27	Popolazione residente - età 65 - 69 anni.
+P28	Popolazione residente - età 70 - 74 anni.
+P29	Popolazione residente - età > 74 anni.
+P30	Popolazione residente - Maschi - età < 5 anni.
+P31	Popolazione residente - Maschi - età 5 - 9 anni.
+P32	Popolazione residente - Maschi - età 10 - 14 anni.
+P33	Popolazione residente - Maschi - età 15 - 19 anni.
+P34	Popolazione residente - Maschi - età 20 - 24 anni.
+P35	Popolazione residente - Maschi - età 25 - 29 anni.
+P36	Popolazione residente - Maschi - età 30 - 34 anni.
+P37	Popolazione residente - Maschi - età 35 - 39 anni.
+P38	Popolazione residente - Maschi - età 40 - 44 anni.
+P39	Popolazione residente - Maschi - età 45 - 49 anni.
+P40	Popolazione residente - Maschi - età 50 - 54 anni.
+P41	Popolazione residente - Maschi - età 55 - 59 anni.
+P42	Popolazione residente - Maschi - età 60 - 64 anni.
+P43	Popolazione residente - Maschi - età 65 - 69 anni.
+P44	Popolazione residente - Maschi - età 70 - 74 anni.
+P45	Popolazione residente - Maschi - età > 74 anni.
+ST1	Stranieri e apolidi residenti in Italia - Totale.
+ST2	Stranieri e apolidi residenti in Italia - Maschi.
+ST3	Stranieri e apolidi residenti in Italia - età 0 - 29 anni.
+ST4	Stranieri e apolidi residenti in Italia - età 30 - 54 anni.
+ST5	Stranieri e apolidi residenti in Italia - età > 54 anni.
+ST6	Stranieri e apolidi residenti in Italia - Maschi - età 0 - 29 anni.
+ST7	Stranieri e apolidi residenti in Italia - Maschi - età 30 - 54 anni.
+ST8	Stranieri e apolidi residenti in Italia - Maschi - età > 54 anni.
