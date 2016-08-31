@@ -29,7 +29,11 @@ public class GISCampaniaData {
 	private String strade_path="data"+File.separator+"stradegis"+File.separator+"campania-strade-WSG-32N.shp";
 	private String countries_path="data"+File.separator+"basiterritoriali"+File.separator+"R15_WGS84.shp";
 	private String istat_data_path="data"+File.separator+"popolazione"+File.separator+"R15_Dati_CPA_2011_definitivi.csv";
-	private String istat_data_pendolo="data"+File.separator+"censimento"+File.separator+"matrix_pendo2011_10112014.txt";
+	private String istat_data_pendolo_first="data"+File.separator+"censimento"+File.separator+"matrix_pendo2011_10112014_1.txt";
+	private String istat_data_pendolo_second="data"+File.separator+"censimento"+File.separator+"matrix_pendo2011_10112014_2.txt";
+	private String istat_data_pendolo_third="data"+File.separator+"censimento"+File.separator+"matrix_pendo2011_10112014_3.txt";
+	private String istat_data_pendolo_fourth="data"+File.separator+"censimento"+File.separator+"matrix_pendo2011_10112014_4.txt";
+
 	private String mpa_istat_name="data"+File.separator+"popolazione"+File.separator+"CODISTAT-NAME-MAP.txt";
 	
 	private String currentDirectoryPath;
@@ -145,21 +149,31 @@ public class GISCampaniaData {
 		System.out.print("Loading ISTAT data..");
 		istat_data_map=loadPopulationISTATdata(istat_data_path);
 
-		codISTATdataPendolo=loadDataPendoloByCountry(System.getProperty("user.dir")+File.separator+istat_data_pendolo, istat_data_map, codISTAT2Geometry);
+		codISTATdataPendolo=loadDataPendoloByCountry(System.getProperty("user.dir")+File.separator+istat_data_pendolo_first,
+				System.getProperty("user.dir")+File.separator+istat_data_pendolo_second,
+				System.getProperty("user.dir")+File.separator+istat_data_pendolo_third,
+				System.getProperty("user.dir")+File.separator+istat_data_pendolo_fourth, istat_data_map, codISTAT2Geometry);
 		mapISTATtoNames();
 
 		System.out.println("done ("+istat_data_map.size()+" ISTAT places loaded)");
 	}
-	private static HashMap<Integer,ArrayList<GISCampaniaPendolo>> loadDataPendoloByCountry(final String file_path,
+	
+	
+	private static HashMap<Integer,ArrayList<GISCampaniaPendolo>> loadDataPendoloByCountry(final String file_path, final String file_path2,final String file_path3,final String file_path4,
 			HashMap<Integer, ArrayList<DataLocationISTAT>> istat_data_map2, HashMap<Integer, ArrayList<MasonGeometry>> codISTAT2Geometry)
 			{
 		BufferedReader br = null;
+		BufferedReader br2 = null;
+		BufferedReader br3 = null;
+		BufferedReader br4 = null;
 		String line = "";
 
 		HashMap<Integer,ArrayList<GISCampaniaPendolo>> datas=null;
 		try {
 
 			br = new BufferedReader(new FileReader(file_path));
+			
+			
 			if(br.readLine()==null) return null;
 			datas=new HashMap<Integer, ArrayList<GISCampaniaPendolo>>();
 			while ((line = br.readLine()) != null) {
@@ -192,6 +206,115 @@ public class GISCampaniaData {
 				datas.get(Integer.parseInt(istat)).add(data);
 
 			}
+			
+		    line="";
+			br2 = new BufferedReader(new FileReader(file_path2));
+			if(br2.readLine()==null) return null;
+			datas=new HashMap<Integer, ArrayList<GISCampaniaPendolo>>();
+			while ((line = br2.readLine()) != null) {
+
+				String[] d=line.split("\\s+");	
+				String istat="15"+d[2]+d[3];
+
+				//				if(!nearRoad2codISTAT.containsKey(Integer.parseInt(istat))) continue;
+				if(!codISTAT2Geometry.containsKey(Integer.parseInt(istat))) continue;
+				GISCampaniaPendolo data=new GISCampaniaPendolo(
+						d[0],
+						Integer.parseInt(d[1]),
+						"15"+d[2]+d[3],
+						Integer.parseInt(d[4]),
+						d[5],
+						d[6],
+						d[7],
+						d[8],
+						d[9],
+						d[10],
+						d[11],
+						d[12],
+						d[13].equals("ND")?-1.0:Double.parseDouble(d[13]),
+								d[14].equals("ND")?-1: Integer.parseInt(d[14]),
+										istat_data_map2.get(Integer.parseInt("15"+d[2]+d[3]))==null?"UNKNOWN":istat_data_map2.get(Integer.parseInt("15"+d[2]+d[3])).get(0).getLocation_name()
+												,istat_data_map2.get(Integer.parseInt("15"+d[7]+d[8]))==null?"UNKNOWN":istat_data_map2.get(Integer.parseInt("15"+d[7]+d[8])).get(0).getLocation_name()
+						);
+
+				if(datas.get(Integer.parseInt(istat))==null)datas.put(Integer.parseInt(istat),new ArrayList<GISCampaniaPendolo>());
+				datas.get(Integer.parseInt(istat)).add(data);
+
+			}
+			
+			
+			    line="";
+				br3 = new BufferedReader(new FileReader(file_path2));
+				if(br3.readLine()==null) return null;
+				datas=new HashMap<Integer, ArrayList<GISCampaniaPendolo>>();
+				while ((line = br3.readLine()) != null) {
+
+					String[] d=line.split("\\s+");	
+					String istat="15"+d[2]+d[3];
+
+					//				if(!nearRoad2codISTAT.containsKey(Integer.parseInt(istat))) continue;
+					if(!codISTAT2Geometry.containsKey(Integer.parseInt(istat))) continue;
+					GISCampaniaPendolo data=new GISCampaniaPendolo(
+							d[0],
+							Integer.parseInt(d[1]),
+							"15"+d[2]+d[3],
+							Integer.parseInt(d[4]),
+							d[5],
+							d[6],
+							d[7],
+							d[8],
+							d[9],
+							d[10],
+							d[11],
+							d[12],
+							d[13].equals("ND")?-1.0:Double.parseDouble(d[13]),
+									d[14].equals("ND")?-1: Integer.parseInt(d[14]),
+											istat_data_map2.get(Integer.parseInt("15"+d[2]+d[3]))==null?"UNKNOWN":istat_data_map2.get(Integer.parseInt("15"+d[2]+d[3])).get(0).getLocation_name()
+													,istat_data_map2.get(Integer.parseInt("15"+d[7]+d[8]))==null?"UNKNOWN":istat_data_map2.get(Integer.parseInt("15"+d[7]+d[8])).get(0).getLocation_name()
+							);
+
+					if(datas.get(Integer.parseInt(istat))==null)datas.put(Integer.parseInt(istat),new ArrayList<GISCampaniaPendolo>());
+					datas.get(Integer.parseInt(istat)).add(data);
+
+				}
+				
+				  line="";
+					br4 = new BufferedReader(new FileReader(file_path2));
+					if(br4.readLine()==null) return null;
+					datas=new HashMap<Integer, ArrayList<GISCampaniaPendolo>>();
+					while ((line = br4.readLine()) != null) {
+
+						String[] d=line.split("\\s+");	
+						String istat="15"+d[2]+d[3];
+
+						//				if(!nearRoad2codISTAT.containsKey(Integer.parseInt(istat))) continue;
+						if(!codISTAT2Geometry.containsKey(Integer.parseInt(istat))) continue;
+						GISCampaniaPendolo data=new GISCampaniaPendolo(
+								d[0],
+								Integer.parseInt(d[1]),
+								"15"+d[2]+d[3],
+								Integer.parseInt(d[4]),
+								d[5],
+								d[6],
+								d[7],
+								d[8],
+								d[9],
+								d[10],
+								d[11],
+								d[12],
+								d[13].equals("ND")?-1.0:Double.parseDouble(d[13]),
+										d[14].equals("ND")?-1: Integer.parseInt(d[14]),
+												istat_data_map2.get(Integer.parseInt("15"+d[2]+d[3]))==null?"UNKNOWN":istat_data_map2.get(Integer.parseInt("15"+d[2]+d[3])).get(0).getLocation_name()
+														,istat_data_map2.get(Integer.parseInt("15"+d[7]+d[8]))==null?"UNKNOWN":istat_data_map2.get(Integer.parseInt("15"+d[7]+d[8])).get(0).getLocation_name()
+								);
+
+						if(datas.get(Integer.parseInt(istat))==null)datas.put(Integer.parseInt(istat),new ArrayList<GISCampaniaPendolo>());
+						datas.get(Integer.parseInt(istat)).add(data);
+
+					}
+			
+			
+			
 
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
