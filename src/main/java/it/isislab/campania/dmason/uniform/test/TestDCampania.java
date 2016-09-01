@@ -1,6 +1,6 @@
 package it.isislab.campania.dmason.uniform.test;
 /**
- * Copyright 2012 Universita' degli Studi di Salerno
+ * Copyright 2016 Universita' degli Studi di Salerno
 
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -30,10 +30,6 @@ import java.util.ArrayList;
 /**
  * 
  * @author Michele Carillo
- * @author Ada Mancuso
- * @author Dario Mazzeo
- * @author Francesco Milone
- * @author Francesco Raia
  * @author Flavio Serrapica
  * @author Carmine Spagnuolo
  *
