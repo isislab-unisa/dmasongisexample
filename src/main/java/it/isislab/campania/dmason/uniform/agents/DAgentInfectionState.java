@@ -45,6 +45,18 @@ public abstract class DAgentInfectionState extends DRemoteAgent<Double2D>{
 	protected static final Color STATE_infected = Color.RED;
 	protected static final Color STATE_recovered = Color.GREEN;
 
+	
+	
+	public DAgentInfectionState(DCampaniaModel state, Coordinate born_place)
+	{
+		super(state);
+		if(state.random.nextDouble() < state.initial_infected_ratio)
+		{
+			STATE=STATE_infected;
+			INFECTED_PERIOD=state.random.nextInt(state.initial_infected_period);
+		}
+	}
+	
 	public void updateInfectionState()
 	{
 		if(STATE==STATE_exposed)
@@ -108,15 +120,7 @@ public abstract class DAgentInfectionState extends DRemoteAgent<Double2D>{
 			return false;
 	}
 
-	public DAgentInfectionState(DCampaniaModel state, Coordinate born_place)
-	{
-		super(state);
-		if(state.random.nextDouble() < state.initial_infected_ratio)
-		{
-			STATE=STATE_infected;
-			INFECTED_PERIOD=state.random.nextInt(state.initial_infected_period);
-		}
-	}
+
 
 	public Color getSTATE() {
 		return STATE;
