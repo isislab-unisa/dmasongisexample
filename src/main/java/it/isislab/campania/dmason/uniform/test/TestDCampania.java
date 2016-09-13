@@ -21,7 +21,6 @@ package it.isislab.campania.dmason.uniform.test;
 
 import it.isislab.campania.dmason.uniform.DCampaniaModel;
 import it.isislab.dmason.experimentals.tools.batch.data.GeneralParam;
-import it.isislab.dmason.sim.field.CellType;
 import it.isislab.dmason.sim.field.DistributedField2D;
 import it.isislab.dmason.util.connection.ConnectionType;
 import java.util.ArrayList;
@@ -36,7 +35,7 @@ import java.util.ArrayList;
  */
 public class TestDCampania {
 
-	private static CellType vtype=new CellType(0,0);
+	//private static CellType vtype=new CellType(0,0);
 	private static int numSteps = 100000; //only graphicsOn=false
 	private static int rows = 3; //number of rows
 	private static int columns = 3; //number of columns
