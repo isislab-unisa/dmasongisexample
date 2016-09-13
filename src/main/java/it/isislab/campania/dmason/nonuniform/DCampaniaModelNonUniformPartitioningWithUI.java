@@ -27,6 +27,13 @@ import sim.portrayal.continuous.ContinuousPortrayal2D;
 import sim.portrayal.geo.GeomPortrayal;
 import sim.portrayal.geo.GeomVectorFieldPortrayal;
 
+/**
+ * 
+ * @author Michele Carillo
+ * @author Flavio Serrapica
+ * @author Carmine Spagnuolo
+ *
+ */
 public class DCampaniaModelNonUniformPartitioningWithUI extends GUIState{
 
 	public static String name;

@@ -32,6 +32,14 @@ import sim.util.geo.GeomPlanarGraphEdge;
 import sim.util.geo.MasonGeometry;
 import sim.util.geo.PointMoveTo;
 
+
+/**
+ * 
+ * @author Michele Carillo
+ * @author Flavio Serrapica
+ * @author Carmine Spagnuolo
+ *
+ */
 public class DAgentNonUniformPartitioning extends DAgentInfectionStateNonUniformPartitioning {
 
 	private static final long serialVersionUID = -1113018274619047013L;

@@ -32,10 +32,6 @@ import sim.display.Console;
 /**
  * 
  * @author Michele Carillo
- * @author Ada Mancuso
- * @author Dario Mazzeo
- * @author Francesco Milone
- * @author Francesco Raia
  * @author Flavio Serrapica
  * @author Carmine Spagnuolo
  *

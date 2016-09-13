@@ -24,6 +24,14 @@ import java.io.Serializable;
 import sim.portrayal.DrawInfo2D;
 import sim.portrayal.SimplePortrayal2D;
 
+
+/**
+ * 
+ * @author Michele Carillo
+ * @author Flavio Serrapica
+ * @author Carmine Spagnuolo
+ *
+ */
 public abstract class DRemoteAgent<E>  extends SimplePortrayal2D implements Serializable, RemotePositionedAgent<E>
 {
 	private static final long serialVersionUID = 1L;

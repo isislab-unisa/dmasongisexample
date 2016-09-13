@@ -27,6 +27,14 @@ import com.vividsolutions.jts.geom.Coordinate;
 
 import it.isislab.campania.dmason.uniform.DCampaniaModel;
 
+
+/**
+ * 
+ * @author Michele Carillo
+ * @author Flavio Serrapica
+ * @author Carmine Spagnuolo
+ *
+ */
 public abstract class DAgentInfectionState extends DRemoteAgent<Double2D>{
 
 	private static final long serialVersionUID = 1L;

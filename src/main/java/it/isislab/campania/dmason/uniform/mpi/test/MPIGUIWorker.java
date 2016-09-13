@@ -48,7 +48,10 @@ import sim.display.Console;
 import sim.display.GUIState;
 /**
  * This class is only for testing GUI, you can run on your local machine with MPI
- * @author carminespagnuolo
+ * 
+ * @author Michele Carillo
+ * @author Flavio Serrapica
+ * @author Carmine Spagnuolo
  *
  */
 public class MPIGUIWorker {

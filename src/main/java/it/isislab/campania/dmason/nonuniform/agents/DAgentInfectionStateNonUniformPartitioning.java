@@ -23,6 +23,13 @@ import sim.portrayal.DrawInfo2D;
 import sim.util.Bag;
 import sim.util.Double2D;
 
+/**
+ * 
+ * @author Michele Carillo
+ * @author Flavio Serrapica
+ * @author Carmine Spagnuolo
+ *
+ */
 public abstract class DAgentInfectionStateNonUniformPartitioning extends DRemoteAgentNonUniformPartitioning<Double2D>{
 	
 	private static final long serialVersionUID = 1L;

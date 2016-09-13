@@ -34,6 +34,13 @@ import sim.engine.SimState;
 import sim.util.Double2D;
 import sim.util.geo.MasonGeometry;
 
+/**
+ * 
+ * @author Michele Carillo
+ * @author Flavio Serrapica
+ * @author Carmine Spagnuolo
+ *
+ */
 public class DCampaniaModelNonUniformPartitioning extends DistributedState<Double2D> {
 
 	/*SIR MODEL*/

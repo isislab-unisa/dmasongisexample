@@ -36,6 +36,14 @@ import it.isislab.campania.dmason.uniform.DCampaniaModel;
 import it.isislab.dmason.exception.DMasonException;
 
 
+
+/**
+ * 
+ * @author Michele Carillo
+ * @author Flavio Serrapica
+ * @author Carmine Spagnuolo
+ *
+ */
 public class DAgent extends DAgentInfectionState 
 {
 

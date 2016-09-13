@@ -34,6 +34,14 @@ import mpi.MPI;
 import mpi.MPIException;
 import sim.display.Console;
 
+
+/**
+ * 
+ * @author Michele Carillo
+ * @author Flavio Serrapica
+ * @author Carmine Spagnuolo
+ *
+ */
 public class MPIWorkerCampania {
 	/**
 	 * The main method
