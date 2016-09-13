@@ -45,7 +45,7 @@ import com.vividsolutions.jts.geom.LineString;
  */
 public class DCampaniaModel extends DistributedState<Double2D>
 {
-	/*SEIR MODEL*/
+	/*SIR MODEL*/
 	public double infetion_probability=0.1;
 	public final double population_rate=0.5;
 	public double neighborhood = 1;
@@ -118,7 +118,7 @@ public class DCampaniaModel extends DistributedState<Double2D>
 	{
 		super(params,new DistributedMultiSchedule<Double2D>(), topic,params.getConnectionType());
 
-		this.topicPrefix=topic;
+		topicPrefix=topic;
 		this.MODE=params.getMode();
 		WIDTH=params.getWidth();
 		HEIGHT=params.getHeight();

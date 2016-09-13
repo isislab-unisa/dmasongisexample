@@ -33,7 +33,7 @@ import it.isislab.dmason.nonuniform.QuadTree;
 
 public class CampaniaModel extends SimState
 {
-	/*SEIR MODEL*/
+	/*SIR MODEL*/
 	public double infetion_probability=0.1;
 	public final double population_rate=0.5;
 	public double neighborhood = 1;
